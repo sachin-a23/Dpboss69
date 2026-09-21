@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "9\/21\/2026, 7:13:59 PM",
+  "last_updated": "9\/21\/2026, 7:15:30 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -4164,6 +4164,1950 @@
     },
     {
       "marketName": "MILAN DAY",
+      "date": "20-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-11-2025",
+      "result": "569 - 08 - 125",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-11-2025",
+      "result": "780 - 55 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-11-2025",
+      "result": "578 - 02 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-11-2025",
+      "result": "147 - 23 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-11-2025",
+      "result": "578 - 00 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-11-2025",
+      "result": "578 - 05 - 258",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-11-2025",
+      "result": "129 - 27 - 368",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-11-2025",
+      "result": "135 - 91 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-11-2025",
+      "result": "335 - 16 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-11-2025",
+      "result": "189 - 84 - 266",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-11-2025",
+      "result": "129 - 20 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-11-2025",
+      "result": "125 - 84 - 590",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-11-2025",
+      "result": "149 - 47 - 133",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-11-2025",
+      "result": "780 - 52 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-11-2025",
+      "result": "469 - 96 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-11-2025",
+      "result": "348 - 53 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-11-2025",
+      "result": "560 - 11 - 290",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-11-2025",
+      "result": "160 - 70 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-11-2025",
+      "result": "279 - 82 - 255",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-11-2025",
+      "result": "126 - 91 - 560",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-11-2025",
+      "result": "126 - 97 - 890",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-11-2025",
+      "result": "268 - 67 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-11-2025",
+      "result": "458 - 79 - 180",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-11-2025",
+      "result": "136 - 09 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-11-2025",
+      "result": "279 - 87 - 449",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-12-2025",
+      "result": "557 - 78 - 990",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-12-2025",
+      "result": "456 - 52 - 246",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-12-2025",
+      "result": "669 - 12 - 255",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-12-2025",
+      "result": "349 - 64 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-12-2025",
+      "result": "560 - 17 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-12-2025",
+      "result": "678 - 16 - 259",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-12-2025",
+      "result": "680 - 43 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-12-2025",
+      "result": "890 - 78 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-12-2025",
+      "result": "270 - 91 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-12-2025",
+      "result": "480 - 27 - 368",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-12-2025",
+      "result": "490 - 30 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-12-2025",
+      "result": "349 - 64 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-12-2025",
+      "result": "599 - 30 - 569",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-12-2025",
+      "result": "478 - 97 - 188",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-12-2025",
+      "result": "456 - 55 - 339",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-12-2025",
+      "result": "180 - 97 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-12-2025",
+      "result": "139 - 39 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-12-2025",
+      "result": "157 - 33 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-12-2025",
+      "result": "445 - 38 - 558",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-12-2025",
+      "result": "366 - 53 - 229",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-12-2025",
+      "result": "238 - 32 - 200",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-12-2025",
+      "result": "260 - 84 - 789",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-12-2025",
+      "result": "477 - 82 - 390",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-12-2025",
+      "result": "899 - 60 - 136",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-12-2025",
+      "result": "168 - 57 - 359",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-12-2025",
+      "result": "445 - 36 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-01-2026",
+      "result": "180 - 94 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-01-2026",
+      "result": "267 - 52 - 200",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-01-2026",
+      "result": "880 - 68 - 378",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-01-2026",
+      "result": "235 - 04 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-01-2026",
+      "result": "338 - 46 - 600",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-01-2026",
+      "result": "367 - 65 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-01-2026",
+      "result": "488 - 04 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-01-2026",
+      "result": "145 - 04 - 770",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-01-2026",
+      "result": "278 - 74 - 680",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-01-2026",
+      "result": "278 - 77 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-01-2026",
+      "result": "249 - 51 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-01-2026",
+      "result": "578 - 04 - 149",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-01-2026",
+      "result": "346 - 34 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-01-2026",
+      "result": "168 - 55 - 366",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-01-2026",
+      "result": "130 - 42 - 390",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-01-2026",
+      "result": "135 - 02 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-01-2026",
+      "result": "670 - 39 - 135",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-01-2026",
+      "result": "334 - 06 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-01-2026",
+      "result": "790 - 67 - 124",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-01-2026",
+      "result": "457 - 69 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-01-2026",
+      "result": "348 - 54 - 149",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-01-2026",
+      "result": "250 - 76 - 600",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-01-2026",
+      "result": "348 - 59 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-01-2026",
+      "result": "788 - 35 - 159",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-01-2026",
+      "result": "146 - 12 - 778",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-01-2026",
+      "result": "700 - 70 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-02-2026",
+      "result": "379 - 91 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-02-2026",
+      "result": "188 - 78 - 378",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-02-2026",
+      "result": "279 - 82 - 138",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-02-2026",
+      "result": "147 - 20 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-02-2026",
+      "result": "456 - 54 - 789",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-02-2026",
+      "result": "259 - 65 - 267",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-02-2026",
+      "result": "458 - 77 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-02-2026",
+      "result": "479 - 00 - 244",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-02-2026",
+      "result": "788 - 36 - 457",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-02-2026",
+      "result": "147 - 25 - 113",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-02-2026",
+      "result": "260 - 88 - 378",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-02-2026",
+      "result": "156 - 27 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-02-2026",
+      "result": "270 - 94 - 789",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-02-2026",
+      "result": "670 - 31 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-02-2026",
+      "result": "230 - 55 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-02-2026",
+      "result": "130 - 49 - 199",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-02-2026",
+      "result": "678 - 18 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-02-2026",
+      "result": "146 - 15 - 357",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-02-2026",
+      "result": "577 - 97 - 700",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-02-2026",
+      "result": "699 - 49 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-02-2026",
+      "result": "250 - 71 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-02-2026",
+      "result": "146 - 17 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-02-2026",
+      "result": "588 - 12 - 589",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-02-2026",
+      "result": "148 - 33 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-03-2026",
+      "result": "137 - 13 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-03-2026",
+      "result": "289 - 94 - 680",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-03-2026",
+      "result": "234 - 90 - 578",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-03-2026",
+      "result": "140 - 56 - 123",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-03-2026",
+      "result": "150 - 63 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-03-2026",
+      "result": "890 - 70 - 127",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-03-2026",
+      "result": "129 - 21 - 100",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-03-2026",
+      "result": "445 - 30 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-03-2026",
+      "result": "260 - 88 - 134",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-03-2026",
+      "result": "335 - 15 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-03-2026",
+      "result": "357 - 54 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-03-2026",
+      "result": "249 - 58 - 224",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-03-2026",
+      "result": "588 - 13 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-03-2026",
+      "result": "368 - 72 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-03-2026",
+      "result": "589 - 25 - 177",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-03-2026",
+      "result": "578 - 06 - 457",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-03-2026",
+      "result": "189 - 82 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-03-2026",
+      "result": "399 - 17 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-03-2026",
+      "result": "357 - 59 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-03-2026",
+      "result": "112 - 42 - 589",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-03-2026",
+      "result": "889 - 51 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-03-2026",
+      "result": "269 - 77 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-03-2026",
+      "result": "236 - 11 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-03-2026",
+      "result": "566 - 74 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-03-2026",
+      "result": "578 - 04 - 446",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-04-2026",
+      "result": "678 - 19 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-04-2026",
+      "result": "678 - 16 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-04-2026",
+      "result": "889 - 50 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-04-2026",
+      "result": "138 - 26 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-04-2026",
+      "result": "159 - 51 - 560",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-04-2026",
+      "result": "278 - 76 - 457",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-04-2026",
+      "result": "780 - 56 - 367",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-04-2026",
+      "result": "267 - 51 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-04-2026",
+      "result": "180 - 96 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-04-2026",
+      "result": "679 - 28 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-04-2026",
+      "result": "788 - 30 - 190",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-04-2026",
+      "result": "460 - 03 - 229",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-04-2026",
+      "result": "458 - 77 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-04-2026",
+      "result": "140 - 53 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-04-2026",
+      "result": "279 - 89 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-04-2026",
+      "result": "490 - 33 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-04-2026",
+      "result": "348 - 53 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-04-2026",
+      "result": "690 - 52 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-04-2026",
+      "result": "455 - 48 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-04-2026",
+      "result": "479 - 04 - 220",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-04-2026",
+      "result": "468 - 83 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-04-2026",
+      "result": "269 - 79 - 450",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-04-2026",
+      "result": "179 - 79 - 135",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-04-2026",
+      "result": "469 - 98 - 224",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-04-2026",
+      "result": "890 - 75 - 348",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-04-2026",
+      "result": "256 - 37 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-05-2026",
+      "result": "180 - 97 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-05-2026",
+      "result": "123 - 68 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-05-2026",
+      "result": "180 - 95 - 339",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-05-2026",
+      "result": "137 - 13 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-05-2026",
+      "result": "568 - 95 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-05-2026",
+      "result": "690 - 51 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-05-2026",
+      "result": "355 - 34 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-05-2026",
+      "result": "137 - 18 - 288",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-05-2026",
+      "result": "588 - 14 - 770",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-05-2026",
+      "result": "579 - 14 - 590",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-05-2026",
+      "result": "670 - 32 - 679",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-05-2026",
+      "result": "679 - 20 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-05-2026",
+      "result": "234 - 93 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-05-2026",
+      "result": "368 - 78 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-05-2026",
+      "result": "567 - 89 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-05-2026",
+      "result": "330 - 64 - 347",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-05-2026",
+      "result": "689 - 31 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-05-2026",
+      "result": "156 - 24 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-05-2026",
+      "result": "127 - 00 - 190",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-05-2026",
+      "result": "678 - 13 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-05-2026",
+      "result": "557 - 72 - 255",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-05-2026",
+      "result": "890 - 71 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-05-2026",
+      "result": "679 - 21 - 290",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-05-2026",
+      "result": "124 - 75 - 357",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-05-2026",
+      "result": "136 - 01 - 399",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-05-2026",
+      "result": "144 - 95 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-06-2026",
+      "result": "226 - 02 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-06-2026",
+      "result": "599 - 38 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-06-2026",
+      "result": "139 - 31 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-06-2026",
+      "result": "800 - 83 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-06-2026",
+      "result": "459 - 80 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-06-2026",
+      "result": "456 - 50 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-06-2026",
+      "result": "450 - 92 - 679",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-06-2026",
+      "result": "240 - 62 - 390",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-06-2026",
+      "result": "225 - 95 - 456",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-06-2026",
+      "result": "788 - 30 - 677",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-06-2026",
+      "result": "250 - 78 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-06-2026",
+      "result": "579 - 17 - 449",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-06-2026",
+      "result": "159 - 50 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-06-2026",
+      "result": "345 - 23 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-06-2026",
+      "result": "127 - 02 - 778",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-06-2026",
+      "result": "380 - 13 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-06-2026",
+      "result": "559 - 96 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-06-2026",
+      "result": "469 - 92 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-06-2026",
+      "result": "479 - 08 - 260",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-06-2026",
+      "result": "120 - 34 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-06-2026",
+      "result": "456 - 57 - 890",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-06-2026",
+      "result": "228 - 21 - 588",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-06-2026",
+      "result": "225 - 93 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-06-2026",
+      "result": "135 - 97 - 566",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-06-2026",
+      "result": "256 - 34 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-06-2026",
+      "result": "226 - 06 - 880",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-07-2026",
+      "result": "289 - 94 - 446",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-07-2026",
+      "result": "389 - 06 - 448",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-07-2026",
+      "result": "145 - 03 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-07-2026",
+      "result": "347 - 49 - 117",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-07-2026",
+      "result": "478 - 95 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-07-2026",
+      "result": "566 - 75 - 357",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-07-2026",
+      "result": "277 - 69 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-07-2026",
+      "result": "579 - 14 - 347",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-07-2026",
+      "result": "790 - 64 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-07-2026",
+      "result": "289 - 96 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-07-2026",
+      "result": "124 - 74 - 220",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-07-2026",
+      "result": "677 - 01 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-07-2026",
+      "result": "470 - 14 - 347",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-07-2026",
+      "result": "680 - 45 - 258",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-07-2026",
+      "result": "468 - 81 - 245",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-07-2026",
+      "result": "150 - 62 - 589",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-07-2026",
+      "result": "598 - 31 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-07-2026",
+      "result": "337 - 31 - 290",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-07-2026",
+      "result": "700 - 78 - 260",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-07-2026",
+      "result": "578 - 00 - 226",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-07-2026",
+      "result": "334 - 04 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-07-2026",
+      "result": "160 - 74 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-07-2026",
+      "result": "200 - 26 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-07-2026",
+      "result": "589 - 26 - 899",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-07-2026",
+      "result": "338 - 45 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-07-2026",
+      "result": "147 - 28 - 134",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-07-2026",
+      "result": "138 - 23 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-08-2026",
+      "result": "256 - 32 - 129",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-08-2026",
+      "result": "568 - 99 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-08-2026",
+      "result": "114 - 65 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-08-2026",
+      "result": "899 - 66 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-08-2026",
+      "result": "990 - 89 - 135",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-08-2026",
+      "result": "113 - 59 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-08-2026",
+      "result": "349 - 67 - 188",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-08-2026",
+      "result": "138 - 26 - 123",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-08-2026",
+      "result": "459 - 81 - 227",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-08-2026",
+      "result": "346 - 38 - 567",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-08-2026",
+      "result": "670 - 37 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-08-2026",
+      "result": "688 - 26 - 114",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-08-2026",
+      "result": "157 - 33 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-08-2026",
+      "result": "255 - 20 - 578",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-08-2026",
+      "result": "278 - 73 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "20-08-2026",
+      "result": "170 - 88 - 369",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "21-08-2026",
+      "result": "234 - 99 - 135",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "22-08-2026",
+      "result": "689 - 31 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "23-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "24-08-2026",
+      "result": "668 - 07 - 449",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "25-08-2026",
+      "result": "470 - 17 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "26-08-2026",
+      "result": "247 - 33 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "27-08-2026",
+      "result": "568 - 92 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "28-08-2026",
+      "result": "247 - 32 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "29-08-2026",
+      "result": "168 - 50 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "30-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "31-08-2026",
+      "result": "600 - 69 - 360",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "01-09-2026",
+      "result": "190 - 05 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "02-09-2026",
+      "result": "579 - 18 - 567",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "03-09-2026",
+      "result": "899 - 65 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "04-09-2026",
+      "result": "223 - 70 - 244",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "05-09-2026",
+      "result": "150 - 63 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "06-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "07-09-2026",
+      "result": "450 - 96 - 114",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "08-09-2026",
+      "result": "359 - 76 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "09-09-2026",
+      "result": "589 - 27 - 188",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "10-09-2026",
+      "result": "579 - 15 - 113",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "11-09-2026",
+      "result": "780 - 59 - 289",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "12-09-2026",
+      "result": "560 - 15 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "13-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "14-09-2026",
+      "result": "299 - 00 - 136",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "15-09-2026",
+      "result": "348 - 58 - 800",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "16-09-2026",
+      "result": "159 - 50 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "17-09-2026",
+      "result": "447 - 58 - 233",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "18-09-2026",
+      "result": "700 - 73 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
+      "date": "19-09-2026",
+      "result": "266 - 43 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN",
       "date": "20-09-2026",
       "result": "*** - ** - ***",
       "isHoliday": true
