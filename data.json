@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "9\/23\/2026, 1:21:01 PM",
+  "last_updated": "9\/23\/2026, 1:21:19 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -2089,2082 +2089,6 @@
     },
     {
       "marketName": "TIME BAZAR",
-      "date": "20-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-10-2025",
-      "result": "238 - 30 - 569",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-10-2025",
-      "result": "279 - 82 - 679",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-10-2025",
-      "result": "390 - 20 - 578",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-10-2025",
-      "result": "268 - 89 - 379",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-10-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-10-2025",
-      "result": "446 - 43 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-10-2025",
-      "result": "460 - 09 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-10-2025",
-      "result": "670 - 34 - 257",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-10-2025",
-      "result": "560 - 19 - 469",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-10-2025",
-      "result": "124 - 75 - 366",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-10-2025",
-      "result": "267 - 50 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-10-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-10-2025",
-      "result": "689 - 13 - 166",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-10-2025",
-      "result": "355 - 36 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-10-2025",
-      "result": "488 - 01 - 119",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-10-2025",
-      "result": "379 - 96 - 899",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-10-2025",
-      "result": "458 - 79 - 289",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-10-2025",
-      "result": "159 - 57 - 368",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-10-2025",
-      "result": "166 - 35 - 113",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-10-2025",
-      "result": "339 - 58 - 233",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-10-2025",
-      "result": "234 - 91 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-10-2025",
-      "result": "467 - 75 - 690",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-11-2025",
-      "result": "490 - 33 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-11-2025",
-      "result": "234 - 91 - 560",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-11-2025",
-      "result": "239 - 40 - 569",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-11-2025",
-      "result": "149 - 45 - 267",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-11-2025",
-      "result": "338 - 47 - 890",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-11-2025",
-      "result": "660 - 21 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-11-2025",
-      "result": "130 - 47 - 133",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-11-2025",
-      "result": "800 - 86 - 240",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-11-2025",
-      "result": "680 - 46 - 178",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-11-2025",
-      "result": "248 - 47 - 269",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-11-2025",
-      "result": "148 - 36 - 899",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-11-2025",
-      "result": "569 - 06 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-11-2025",
-      "result": "170 - 86 - 600",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-11-2025",
-      "result": "116 - 85 - 799",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-11-2025",
-      "result": "268 - 60 - 299",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-11-2025",
-      "result": "128 - 17 - 890",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-11-2025",
-      "result": "780 - 58 - 134",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-11-2025",
-      "result": "136 - 07 - 458",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-11-2025",
-      "result": "390 - 21 - 119",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-11-2025",
-      "result": "137 - 18 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-11-2025",
-      "result": "168 - 59 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-11-2025",
-      "result": "199 - 95 - 366",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-11-2025",
-      "result": "667 - 90 - 280",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-11-2025",
-      "result": "225 - 97 - 278",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-11-2025",
-      "result": "590 - 48 - 260",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-12-2025",
-      "result": "699 - 42 - 200",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-12-2025",
-      "result": "249 - 51 - 128",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-12-2025",
-      "result": "128 - 13 - 120",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-12-2025",
-      "result": "135 - 98 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-12-2025",
-      "result": "680 - 48 - 170",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-12-2025",
-      "result": "479 - 05 - 267",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-12-2025",
-      "result": "167 - 45 - 230",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-12-2025",
-      "result": "690 - 53 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-12-2025",
-      "result": "149 - 43 - 490",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-12-2025",
-      "result": "168 - 59 - 270",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-12-2025",
-      "result": "117 - 97 - 449",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-12-2025",
-      "result": "238 - 34 - 347",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-12-2025",
-      "result": "380 - 12 - 570",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-12-2025",
-      "result": "110 - 29 - 450",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-12-2025",
-      "result": "270 - 90 - 235",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-12-2025",
-      "result": "124 - 72 - 200",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-12-2025",
-      "result": "399 - 13 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-12-2025",
-      "result": "129 - 28 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-12-2025",
-      "result": "370 - 08 - 350",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-12-2025",
-      "result": "359 - 70 - 370",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-12-2025",
-      "result": "267 - 55 - 140",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-12-2025",
-      "result": "357 - 57 - 269",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-12-2025",
-      "result": "168 - 52 - 147",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-12-2025",
-      "result": "148 - 35 - 690",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-12-2025",
-      "result": "678 - 15 - 447",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-12-2025",
-      "result": "248 - 42 - 679",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-12-2025",
-      "result": "160 - 72 - 129",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-01-2026",
-      "result": "350 - 83 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-01-2026",
-      "result": "139 - 33 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-01-2026",
-      "result": "268 - 66 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-01-2026",
-      "result": "680 - 48 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-01-2026",
-      "result": "367 - 68 - 558",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-01-2026",
-      "result": "479 - 00 - 136",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-01-2026",
-      "result": "466 - 64 - 356",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-01-2026",
-      "result": "112 - 46 - 349",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-01-2026",
-      "result": "239 - 41 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-01-2026",
-      "result": "458 - 75 - 159",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-01-2026",
-      "result": "129 - 21 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-01-2026",
-      "result": "128 - 18 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-01-2026",
-      "result": "580 - 36 - 123",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-01-2026",
-      "result": "235 - 05 - 267",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-01-2026",
-      "result": "445 - 38 - 440",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-01-2026",
-      "result": "300 - 31 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-01-2026",
-      "result": "347 - 46 - 169",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-01-2026",
-      "result": "570 - 29 - 577",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-01-2026",
-      "result": "390 - 29 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-01-2026",
-      "result": "340 - 70 - 370",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-01-2026",
-      "result": "128 - 17 - 124",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-01-2026",
-      "result": "236 - 16 - 259",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-01-2026",
-      "result": "119 - 13 - 779",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-01-2026",
-      "result": "479 - 08 - 116",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-01-2026",
-      "result": "239 - 49 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-01-2026",
-      "result": "345 - 28 - 233",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-02-2026",
-      "result": "246 - 21 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-02-2026",
-      "result": "170 - 87 - 124",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-02-2026",
-      "result": "599 - 30 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-02-2026",
-      "result": "240 - 66 - 448",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-02-2026",
-      "result": "234 - 95 - 230",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-02-2026",
-      "result": "146 - 13 - 139",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-02-2026",
-      "result": "460 - 08 - 800",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-02-2026",
-      "result": "249 - 53 - 148",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-02-2026",
-      "result": "177 - 53 - 670",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-02-2026",
-      "result": "379 - 96 - 330",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-02-2026",
-      "result": "440 - 89 - 289",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-02-2026",
-      "result": "366 - 58 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-02-2026",
-      "result": "269 - 77 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-02-2026",
-      "result": "380 - 19 - 469",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-02-2026",
-      "result": "190 - 02 - 156",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-02-2026",
-      "result": "260 - 89 - 900",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-02-2026",
-      "result": "568 - 98 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-02-2026",
-      "result": "478 - 94 - 158",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-02-2026",
-      "result": "114 - 60 - 677",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-02-2026",
-      "result": "200 - 28 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-02-2026",
-      "result": "578 - 04 - 888",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-02-2026",
-      "result": "259 - 69 - 478",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-02-2026",
-      "result": "235 - 06 - 556",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-02-2026",
-      "result": "380 - 19 - 117",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-03-2026",
-      "result": "334 - 05 - 456",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-03-2026",
-      "result": "469 - 91 - 399",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-03-2026",
-      "result": "248 - 42 - 228",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-03-2026",
-      "result": "570 - 21 - 669",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-03-2026",
-      "result": "559 - 96 - 899",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-03-2026",
-      "result": "450 - 92 - 129",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-03-2026",
-      "result": "167 - 45 - 159",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-03-2026",
-      "result": "568 - 95 - 780",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-03-2026",
-      "result": "388 - 94 - 338",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-03-2026",
-      "result": "378 - 82 - 129",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-03-2026",
-      "result": "447 - 52 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-03-2026",
-      "result": "135 - 92 - 110",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-03-2026",
-      "result": "366 - 50 - 118",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-03-2026",
-      "result": "126 - 98 - 459",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-03-2026",
-      "result": "699 - 44 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-03-2026",
-      "result": "379 - 97 - 269",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-03-2026",
-      "result": "127 - 06 - 330",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-03-2026",
-      "result": "680 - 41 - 100",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-03-2026",
-      "result": "224 - 85 - 339",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-03-2026",
-      "result": "457 - 66 - 330",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-03-2026",
-      "result": "367 - 61 - 245",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-03-2026",
-      "result": "290 - 18 - 134",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-03-2026",
-      "result": "169 - 67 - 377",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-03-2026",
-      "result": "289 - 92 - 480",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-03-2026",
-      "result": "890 - 71 - 380",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-04-2026",
-      "result": "490 - 35 - 447",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-04-2026",
-      "result": "346 - 34 - 239",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-04-2026",
-      "result": "177 - 51 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-04-2026",
-      "result": "479 - 01 - 344",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-04-2026",
-      "result": "450 - 95 - 889",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-04-2026",
-      "result": "300 - 30 - 668",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-04-2026",
-      "result": "117 - 99 - 900",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-04-2026",
-      "result": "778 - 25 - 780",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-04-2026",
-      "result": "259 - 53 - 229",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-04-2026",
-      "result": "160 - 77 - 368",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-04-2026",
-      "result": "159 - 59 - 478",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-04-2026",
-      "result": "480 - 27 - 700",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-04-2026",
-      "result": "350 - 83 - 788",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-04-2026",
-      "result": "467 - 73 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-04-2026",
-      "result": "356 - 49 - 360",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-04-2026",
-      "result": "125 - 82 - 679",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-04-2026",
-      "result": "147 - 27 - 188",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-04-2026",
-      "result": "280 - 03 - 355",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-04-2026",
-      "result": "190 - 04 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-04-2026",
-      "result": "224 - 80 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-04-2026",
-      "result": "890 - 79 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-04-2026",
-      "result": "360 - 97 - 566",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-04-2026",
-      "result": "359 - 70 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-04-2026",
-      "result": "144 - 93 - 599",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-04-2026",
-      "result": "889 - 56 - 466",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-04-2026",
-      "result": "388 - 97 - 340",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-05-2026",
-      "result": "112 - 41 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-05-2026",
-      "result": "556 - 68 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-05-2026",
-      "result": "480 - 20 - 145",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-05-2026",
-      "result": "788 - 32 - 570",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-05-2026",
-      "result": "139 - 37 - 278",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-05-2026",
-      "result": "160 - 75 - 258",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-05-2026",
-      "result": "123 - 69 - 360",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-05-2026",
-      "result": "480 - 24 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-05-2026",
-      "result": "489 - 12 - 345",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-05-2026",
-      "result": "478 - 91 - 777",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-05-2026",
-      "result": "247 - 34 - 789",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-05-2026",
-      "result": "138 - 29 - 568",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-05-2026",
-      "result": "170 - 83 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-05-2026",
-      "result": "245 - 10 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-05-2026",
-      "result": "267 - 57 - 124",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-05-2026",
-      "result": "245 - 17 - 467",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-05-2026",
-      "result": "000 - 08 - 477",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-05-2026",
-      "result": "159 - 58 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-05-2026",
-      "result": "257 - 42 - 138",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-05-2026",
-      "result": "378 - 86 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-05-2026",
-      "result": "679 - 24 - 400",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-05-2026",
-      "result": "590 - 40 - 334",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-05-2026",
-      "result": "236 - 17 - 179",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-05-2026",
-      "result": "240 - 64 - 130",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-05-2026",
-      "result": "137 - 15 - 249",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-05-2026",
-      "result": "188 - 75 - 159",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-06-2026",
-      "result": "499 - 20 - 235",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-06-2026",
-      "result": "160 - 74 - 130",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-06-2026",
-      "result": "346 - 39 - 450",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-06-2026",
-      "result": "440 - 83 - 148",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-06-2026",
-      "result": "477 - 86 - 123",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-06-2026",
-      "result": "778 - 29 - 180",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-06-2026",
-      "result": "168 - 54 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-06-2026",
-      "result": "267 - 53 - 779",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-06-2026",
-      "result": "458 - 73 - 779",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-06-2026",
-      "result": "458 - 73 - 490",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-06-2026",
-      "result": "360 - 91 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-06-2026",
-      "result": "140 - 54 - 112",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-06-2026",
-      "result": "567 - 81 - 227",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-06-2026",
-      "result": "370 - 00 - 145",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-06-2026",
-      "result": "566 - 72 - 688",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-06-2026",
-      "result": "380 - 16 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-06-2026",
-      "result": "138 - 22 - 390",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-06-2026",
-      "result": "233 - 80 - 370",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-06-2026",
-      "result": "789 - 48 - 116",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-06-2026",
-      "result": "790 - 63 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-06-2026",
-      "result": "449 - 77 - 700",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-06-2026",
-      "result": "670 - 31 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-06-2026",
-      "result": "127 - 04 - 158",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-06-2026",
-      "result": "389 - 00 - 235",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-06-2026",
-      "result": "677 - 00 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-06-2026",
-      "result": "557 - 71 - 669",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-07-2026",
-      "result": "223 - 70 - 668",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-07-2026",
-      "result": "179 - 77 - 890",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-07-2026",
-      "result": "356 - 43 - 779",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-07-2026",
-      "result": "450 - 94 - 149",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-07-2026",
-      "result": "130 - 48 - 567",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-07-2026",
-      "result": "677 - 90 - 568",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-07-2026",
-      "result": "160 - 71 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-07-2026",
-      "result": "350 - 81 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-07-2026",
-      "result": "448 - 62 - 228",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-07-2026",
-      "result": "240 - 67 - 250",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-07-2026",
-      "result": "449 - 74 - 338",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-07-2026",
-      "result": "590 - 46 - 277",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-07-2026",
-      "result": "149 - 48 - 350",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-07-2026",
-      "result": "137 - 11 - 227",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-07-2026",
-      "result": "280 - 03 - 238",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-07-2026",
-      "result": "178 - 61 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-07-2026",
-      "result": "150 - 64 - 220",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-07-2026",
-      "result": "125 - 83 - 490",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-07-2026",
-      "result": "113 - 56 - 349",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-07-2026",
-      "result": "279 - 88 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-07-2026",
-      "result": "167 - 43 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-07-2026",
-      "result": "468 - 87 - 458",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-07-2026",
-      "result": "369 - 88 - 350",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-07-2026",
-      "result": "180 - 90 - 127",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-07-2026",
-      "result": "269 - 73 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-07-2026",
-      "result": "133 - 79 - 225",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-07-2026",
-      "result": "126 - 91 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-08-2026",
-      "result": "147 - 21 - 380",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-08-2026",
-      "result": "137 - 10 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-08-2026",
-      "result": "248 - 47 - 133",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-08-2026",
-      "result": "378 - 80 - 127",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-08-2026",
-      "result": "225 - 91 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-08-2026",
-      "result": "266 - 47 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-08-2026",
-      "result": "130 - 47 - 179",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-08-2026",
-      "result": "134 - 88 - 369",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-08-2026",
-      "result": "357 - 54 - 699",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-08-2026",
-      "result": "258 - 57 - 359",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-08-2026",
-      "result": "469 - 99 - 568",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-08-2026",
-      "result": "228 - 22 - 129",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-08-2026",
-      "result": "125 - 88 - 170",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-08-2026",
-      "result": "360 - 96 - 240",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-08-2026",
-      "result": "145 - 02 - 345",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "20-08-2026",
-      "result": "290 - 10 - 668",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "21-08-2026",
-      "result": "116 - 87 - 223",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "22-08-2026",
-      "result": "120 - 39 - 478",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "23-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "24-08-2026",
-      "result": "190 - 02 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "25-08-2026",
-      "result": "170 - 80 - 280",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "26-08-2026",
-      "result": "112 - 49 - 577",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "27-08-2026",
-      "result": "390 - 22 - 138",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "28-08-2026",
-      "result": "168 - 58 - 170",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "29-08-2026",
-      "result": "470 - 13 - 788",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "30-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "31-08-2026",
-      "result": "588 - 16 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "01-09-2026",
-      "result": "236 - 11 - 290",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "02-09-2026",
-      "result": "560 - 14 - 266",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "03-09-2026",
-      "result": "180 - 90 - 000",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "04-09-2026",
-      "result": "455 - 46 - 277",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "05-09-2026",
-      "result": "240 - 65 - 889",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "06-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "07-09-2026",
-      "result": "139 - 32 - 660",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "08-09-2026",
-      "result": "234 - 90 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "09-09-2026",
-      "result": "240 - 69 - 360",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "10-09-2026",
-      "result": "345 - 20 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "11-09-2026",
-      "result": "238 - 31 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "12-09-2026",
-      "result": "230 - 57 - 359",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "13-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "14-09-2026",
-      "result": "330 - 63 - 355",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "15-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "16-09-2026",
-      "result": "220 - 41 - 100",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "17-09-2026",
-      "result": "579 - 13 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "18-09-2026",
-      "result": "289 - 92 - 480",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
-      "date": "19-09-2026",
-      "result": "589 - 23 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MILAN DAY",
       "date": "20-09-2026",
       "result": "*** - ** - ***",
       "isHoliday": true
@@ -8265,6 +6189,2094 @@
       "marketName": "Kalyan Day",
       "date": "22-09-2026",
       "result": "169 - 65 - 140",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-10-2025",
+      "result": "238 - 30 - 569",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-10-2025",
+      "result": "279 - 82 - 679",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-10-2025",
+      "result": "390 - 20 - 578",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-10-2025",
+      "result": "268 - 89 - 379",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-10-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-10-2025",
+      "result": "446 - 43 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-10-2025",
+      "result": "460 - 09 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-10-2025",
+      "result": "670 - 34 - 257",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-10-2025",
+      "result": "560 - 19 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-10-2025",
+      "result": "124 - 75 - 366",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-10-2025",
+      "result": "267 - 50 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-10-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-10-2025",
+      "result": "689 - 13 - 166",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-10-2025",
+      "result": "355 - 36 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-10-2025",
+      "result": "488 - 01 - 119",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-10-2025",
+      "result": "379 - 96 - 899",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-10-2025",
+      "result": "458 - 79 - 289",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-10-2025",
+      "result": "159 - 57 - 368",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-10-2025",
+      "result": "166 - 35 - 113",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-10-2025",
+      "result": "339 - 58 - 233",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-10-2025",
+      "result": "234 - 91 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-10-2025",
+      "result": "467 - 75 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-11-2025",
+      "result": "490 - 33 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-11-2025",
+      "result": "234 - 91 - 560",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-11-2025",
+      "result": "239 - 40 - 569",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-11-2025",
+      "result": "149 - 45 - 267",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-11-2025",
+      "result": "338 - 47 - 890",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-11-2025",
+      "result": "660 - 21 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-11-2025",
+      "result": "130 - 47 - 133",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-11-2025",
+      "result": "800 - 86 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-11-2025",
+      "result": "680 - 46 - 178",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-11-2025",
+      "result": "248 - 47 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-11-2025",
+      "result": "148 - 36 - 899",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-11-2025",
+      "result": "569 - 06 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-11-2025",
+      "result": "170 - 86 - 600",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-11-2025",
+      "result": "116 - 85 - 799",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-11-2025",
+      "result": "268 - 60 - 299",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-11-2025",
+      "result": "128 - 17 - 890",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-11-2025",
+      "result": "780 - 58 - 134",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-11-2025",
+      "result": "136 - 07 - 458",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-11-2025",
+      "result": "390 - 21 - 119",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-11-2025",
+      "result": "137 - 18 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-11-2025",
+      "result": "168 - 59 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-11-2025",
+      "result": "199 - 95 - 366",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-11-2025",
+      "result": "667 - 90 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-11-2025",
+      "result": "225 - 97 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-11-2025",
+      "result": "590 - 48 - 260",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-12-2025",
+      "result": "699 - 42 - 200",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-12-2025",
+      "result": "249 - 51 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-12-2025",
+      "result": "128 - 13 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-12-2025",
+      "result": "135 - 98 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-12-2025",
+      "result": "680 - 48 - 170",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-12-2025",
+      "result": "479 - 05 - 267",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-12-2025",
+      "result": "167 - 45 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-12-2025",
+      "result": "690 - 53 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-12-2025",
+      "result": "149 - 43 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-12-2025",
+      "result": "168 - 59 - 270",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-12-2025",
+      "result": "117 - 97 - 449",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-12-2025",
+      "result": "238 - 34 - 347",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-12-2025",
+      "result": "380 - 12 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-12-2025",
+      "result": "110 - 29 - 450",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-12-2025",
+      "result": "270 - 90 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-12-2025",
+      "result": "124 - 72 - 200",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-12-2025",
+      "result": "399 - 13 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-12-2025",
+      "result": "129 - 28 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-12-2025",
+      "result": "370 - 08 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-12-2025",
+      "result": "359 - 70 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-12-2025",
+      "result": "267 - 55 - 140",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-12-2025",
+      "result": "357 - 57 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-12-2025",
+      "result": "168 - 52 - 147",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-12-2025",
+      "result": "148 - 35 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-12-2025",
+      "result": "678 - 15 - 447",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-12-2025",
+      "result": "248 - 42 - 679",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-12-2025",
+      "result": "160 - 72 - 129",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-01-2026",
+      "result": "350 - 83 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-01-2026",
+      "result": "139 - 33 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-01-2026",
+      "result": "268 - 66 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-01-2026",
+      "result": "680 - 48 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-01-2026",
+      "result": "367 - 68 - 558",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-01-2026",
+      "result": "479 - 00 - 136",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-01-2026",
+      "result": "466 - 64 - 356",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-01-2026",
+      "result": "112 - 46 - 349",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-01-2026",
+      "result": "239 - 41 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-01-2026",
+      "result": "458 - 75 - 159",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-01-2026",
+      "result": "129 - 21 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-01-2026",
+      "result": "128 - 18 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-01-2026",
+      "result": "580 - 36 - 123",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-01-2026",
+      "result": "235 - 05 - 267",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-01-2026",
+      "result": "445 - 38 - 440",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-01-2026",
+      "result": "300 - 31 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-01-2026",
+      "result": "347 - 46 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-01-2026",
+      "result": "570 - 29 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-01-2026",
+      "result": "390 - 29 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-01-2026",
+      "result": "340 - 70 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-01-2026",
+      "result": "128 - 17 - 124",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-01-2026",
+      "result": "236 - 16 - 259",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-01-2026",
+      "result": "119 - 13 - 779",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-01-2026",
+      "result": "479 - 08 - 116",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-01-2026",
+      "result": "239 - 49 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-01-2026",
+      "result": "345 - 28 - 233",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-02-2026",
+      "result": "246 - 21 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-02-2026",
+      "result": "170 - 87 - 124",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-02-2026",
+      "result": "599 - 30 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-02-2026",
+      "result": "240 - 66 - 448",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-02-2026",
+      "result": "234 - 95 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-02-2026",
+      "result": "146 - 13 - 139",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-02-2026",
+      "result": "460 - 08 - 800",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-02-2026",
+      "result": "249 - 53 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-02-2026",
+      "result": "177 - 53 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-02-2026",
+      "result": "379 - 96 - 330",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-02-2026",
+      "result": "440 - 89 - 289",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-02-2026",
+      "result": "366 - 58 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-02-2026",
+      "result": "269 - 77 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-02-2026",
+      "result": "380 - 19 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-02-2026",
+      "result": "190 - 02 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-02-2026",
+      "result": "260 - 89 - 900",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-02-2026",
+      "result": "568 - 98 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-02-2026",
+      "result": "478 - 94 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-02-2026",
+      "result": "114 - 60 - 677",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-02-2026",
+      "result": "200 - 28 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-02-2026",
+      "result": "578 - 04 - 888",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-02-2026",
+      "result": "259 - 69 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-02-2026",
+      "result": "235 - 06 - 556",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-02-2026",
+      "result": "380 - 19 - 117",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-03-2026",
+      "result": "334 - 05 - 456",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-03-2026",
+      "result": "469 - 91 - 399",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-03-2026",
+      "result": "248 - 42 - 228",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-03-2026",
+      "result": "570 - 21 - 669",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-03-2026",
+      "result": "559 - 96 - 899",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-03-2026",
+      "result": "450 - 92 - 129",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-03-2026",
+      "result": "167 - 45 - 159",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-03-2026",
+      "result": "568 - 95 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-03-2026",
+      "result": "388 - 94 - 338",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-03-2026",
+      "result": "378 - 82 - 129",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-03-2026",
+      "result": "447 - 52 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-03-2026",
+      "result": "135 - 92 - 110",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-03-2026",
+      "result": "366 - 50 - 118",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-03-2026",
+      "result": "126 - 98 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-03-2026",
+      "result": "699 - 44 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-03-2026",
+      "result": "379 - 97 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-03-2026",
+      "result": "127 - 06 - 330",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-03-2026",
+      "result": "680 - 41 - 100",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-03-2026",
+      "result": "224 - 85 - 339",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-03-2026",
+      "result": "457 - 66 - 330",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-03-2026",
+      "result": "367 - 61 - 245",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-03-2026",
+      "result": "290 - 18 - 134",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-03-2026",
+      "result": "169 - 67 - 377",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-03-2026",
+      "result": "289 - 92 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-03-2026",
+      "result": "890 - 71 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-04-2026",
+      "result": "490 - 35 - 447",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-04-2026",
+      "result": "346 - 34 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-04-2026",
+      "result": "177 - 51 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-04-2026",
+      "result": "479 - 01 - 344",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-04-2026",
+      "result": "450 - 95 - 889",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-04-2026",
+      "result": "300 - 30 - 668",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-04-2026",
+      "result": "117 - 99 - 900",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-04-2026",
+      "result": "778 - 25 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-04-2026",
+      "result": "259 - 53 - 229",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-04-2026",
+      "result": "160 - 77 - 368",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-04-2026",
+      "result": "159 - 59 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-04-2026",
+      "result": "480 - 27 - 700",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-04-2026",
+      "result": "350 - 83 - 788",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-04-2026",
+      "result": "467 - 73 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-04-2026",
+      "result": "356 - 49 - 360",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-04-2026",
+      "result": "125 - 82 - 679",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-04-2026",
+      "result": "147 - 27 - 188",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-04-2026",
+      "result": "280 - 03 - 355",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-04-2026",
+      "result": "190 - 04 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-04-2026",
+      "result": "224 - 80 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-04-2026",
+      "result": "890 - 79 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-04-2026",
+      "result": "360 - 97 - 566",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-04-2026",
+      "result": "359 - 70 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-04-2026",
+      "result": "144 - 93 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-04-2026",
+      "result": "889 - 56 - 466",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-04-2026",
+      "result": "388 - 97 - 340",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-05-2026",
+      "result": "112 - 41 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-05-2026",
+      "result": "556 - 68 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-05-2026",
+      "result": "480 - 20 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-05-2026",
+      "result": "788 - 32 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-05-2026",
+      "result": "139 - 37 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-05-2026",
+      "result": "160 - 75 - 258",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-05-2026",
+      "result": "123 - 69 - 360",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-05-2026",
+      "result": "480 - 24 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-05-2026",
+      "result": "489 - 12 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-05-2026",
+      "result": "478 - 91 - 777",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-05-2026",
+      "result": "247 - 34 - 789",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-05-2026",
+      "result": "138 - 29 - 568",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-05-2026",
+      "result": "170 - 83 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-05-2026",
+      "result": "245 - 10 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-05-2026",
+      "result": "267 - 57 - 124",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-05-2026",
+      "result": "245 - 17 - 467",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-05-2026",
+      "result": "000 - 08 - 477",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-05-2026",
+      "result": "159 - 58 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-05-2026",
+      "result": "257 - 42 - 138",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-05-2026",
+      "result": "378 - 86 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-05-2026",
+      "result": "679 - 24 - 400",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-05-2026",
+      "result": "590 - 40 - 334",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-05-2026",
+      "result": "236 - 17 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-05-2026",
+      "result": "240 - 64 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-05-2026",
+      "result": "137 - 15 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-05-2026",
+      "result": "188 - 75 - 159",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-06-2026",
+      "result": "499 - 20 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-06-2026",
+      "result": "160 - 74 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-06-2026",
+      "result": "346 - 39 - 450",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-06-2026",
+      "result": "440 - 83 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-06-2026",
+      "result": "477 - 86 - 123",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-06-2026",
+      "result": "778 - 29 - 180",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-06-2026",
+      "result": "168 - 54 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-06-2026",
+      "result": "267 - 53 - 779",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-06-2026",
+      "result": "458 - 73 - 779",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-06-2026",
+      "result": "458 - 73 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-06-2026",
+      "result": "360 - 91 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-06-2026",
+      "result": "140 - 54 - 112",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-06-2026",
+      "result": "567 - 81 - 227",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-06-2026",
+      "result": "370 - 00 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-06-2026",
+      "result": "566 - 72 - 688",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-06-2026",
+      "result": "380 - 16 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-06-2026",
+      "result": "138 - 22 - 390",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-06-2026",
+      "result": "233 - 80 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-06-2026",
+      "result": "789 - 48 - 116",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-06-2026",
+      "result": "790 - 63 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-06-2026",
+      "result": "449 - 77 - 700",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-06-2026",
+      "result": "670 - 31 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-06-2026",
+      "result": "127 - 04 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-06-2026",
+      "result": "389 - 00 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-06-2026",
+      "result": "677 - 00 - 389",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-06-2026",
+      "result": "557 - 71 - 669",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-07-2026",
+      "result": "223 - 70 - 668",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-07-2026",
+      "result": "179 - 77 - 890",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-07-2026",
+      "result": "356 - 43 - 779",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-07-2026",
+      "result": "450 - 94 - 149",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-07-2026",
+      "result": "130 - 48 - 567",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-07-2026",
+      "result": "677 - 90 - 568",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-07-2026",
+      "result": "160 - 71 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-07-2026",
+      "result": "350 - 81 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-07-2026",
+      "result": "448 - 62 - 228",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-07-2026",
+      "result": "240 - 67 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-07-2026",
+      "result": "449 - 74 - 338",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-07-2026",
+      "result": "590 - 46 - 277",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-07-2026",
+      "result": "149 - 48 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-07-2026",
+      "result": "137 - 11 - 227",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-07-2026",
+      "result": "280 - 03 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-07-2026",
+      "result": "178 - 61 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-07-2026",
+      "result": "150 - 64 - 220",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-07-2026",
+      "result": "125 - 83 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-07-2026",
+      "result": "113 - 56 - 349",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-07-2026",
+      "result": "279 - 88 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-07-2026",
+      "result": "167 - 43 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-07-2026",
+      "result": "468 - 87 - 458",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-07-2026",
+      "result": "369 - 88 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-07-2026",
+      "result": "180 - 90 - 127",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-07-2026",
+      "result": "269 - 73 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-07-2026",
+      "result": "133 - 79 - 225",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-07-2026",
+      "result": "126 - 91 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-08-2026",
+      "result": "147 - 21 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-08-2026",
+      "result": "137 - 10 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-08-2026",
+      "result": "248 - 47 - 133",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-08-2026",
+      "result": "378 - 80 - 127",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-08-2026",
+      "result": "225 - 91 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-08-2026",
+      "result": "266 - 47 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-08-2026",
+      "result": "130 - 47 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-08-2026",
+      "result": "134 - 88 - 369",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-08-2026",
+      "result": "357 - 54 - 699",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-08-2026",
+      "result": "258 - 57 - 359",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-08-2026",
+      "result": "469 - 99 - 568",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-08-2026",
+      "result": "228 - 22 - 129",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-08-2026",
+      "result": "125 - 88 - 170",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-08-2026",
+      "result": "360 - 96 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-08-2026",
+      "result": "145 - 02 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-08-2026",
+      "result": "290 - 10 - 668",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-08-2026",
+      "result": "116 - 87 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-08-2026",
+      "result": "120 - 39 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "23-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "24-08-2026",
+      "result": "190 - 02 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "25-08-2026",
+      "result": "170 - 80 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "26-08-2026",
+      "result": "112 - 49 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "27-08-2026",
+      "result": "390 - 22 - 138",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "28-08-2026",
+      "result": "168 - 58 - 170",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "29-08-2026",
+      "result": "470 - 13 - 788",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "30-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "31-08-2026",
+      "result": "588 - 16 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "01-09-2026",
+      "result": "236 - 11 - 290",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "02-09-2026",
+      "result": "560 - 14 - 266",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "03-09-2026",
+      "result": "180 - 90 - 000",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "04-09-2026",
+      "result": "455 - 46 - 277",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "05-09-2026",
+      "result": "240 - 65 - 889",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "06-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "07-09-2026",
+      "result": "139 - 32 - 660",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "08-09-2026",
+      "result": "234 - 90 - 389",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "09-09-2026",
+      "result": "240 - 69 - 360",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "10-09-2026",
+      "result": "345 - 20 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "11-09-2026",
+      "result": "238 - 31 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "12-09-2026",
+      "result": "230 - 57 - 359",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "13-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "14-09-2026",
+      "result": "330 - 63 - 355",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "15-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "16-09-2026",
+      "result": "220 - 41 - 100",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "17-09-2026",
+      "result": "579 - 13 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "18-09-2026",
+      "result": "289 - 92 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "19-09-2026",
+      "result": "589 - 23 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "20-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "21-09-2026",
+      "result": "345 - 22 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MILAN DAY",
+      "date": "22-09-2026",
+      "result": "486 - 86 - 349",
       "isHoliday": false
     }
   ]
