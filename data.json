@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "9\/22\/2026, 7:41:31 PM",
+  "last_updated": "9\/23\/2026, 10:21:30 AM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -8240,6 +8240,12 @@
       "marketName": "SRIDEVI",
       "date": "20-09-2026",
       "result": "340 - 79 - 667",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI",
+      "date": "22-09-2026",
+      "result": "490 - 32 - 237",
       "isHoliday": false
     }
   ]
