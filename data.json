@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "9\/23\/2026, 1:21:19 PM",
+  "last_updated": "9\/23\/2026, 1:21:34 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -17,2082 +17,6 @@
     "Kalyan Day"
   ],
   "records": [
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-10-2025",
-      "result": "169 - 62 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-10-2025",
-      "result": "558 - 86 - 169",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-10-2025",
-      "result": "229 - 30 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-10-2025",
-      "result": "369 - 84 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-10-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-10-2025",
-      "result": "240 - 69 - 568",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-10-2025",
-      "result": "157 - 39 - 559",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-10-2025",
-      "result": "568 - 91 - 560",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-10-2025",
-      "result": "168 - 50 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-10-2025",
-      "result": "116 - 87 - 278",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-10-2025",
-      "result": "358 - 67 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-10-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-10-2025",
-      "result": "115 - 75 - 339",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-10-2025",
-      "result": "227 - 18 - 477",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-10-2025",
-      "result": "560 - 13 - 238",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-10-2025",
-      "result": "478 - 93 - 670",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-10-2025",
-      "result": "123 - 62 - 570",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-10-2025",
-      "result": "334 - 09 - 469",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-10-2025",
-      "result": "168 - 65 - 366",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-10-2025",
-      "result": "357 - 54 - 266",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-10-2025",
-      "result": "257 - 41 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-10-2025",
-      "result": "150 - 62 - 156",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-11-2025",
-      "result": "129 - 23 - 670",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-11-2025",
-      "result": "145 - 07 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-11-2025",
-      "result": "250 - 74 - 356",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-11-2025",
-      "result": "157 - 35 - 456",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-11-2025",
-      "result": "134 - 81 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-11-2025",
-      "result": "557 - 78 - 459",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-11-2025",
-      "result": "679 - 23 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-11-2025",
-      "result": "239 - 43 - 229",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-11-2025",
-      "result": "259 - 62 - 246",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-11-2025",
-      "result": "124 - 75 - 889",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-11-2025",
-      "result": "356 - 46 - 790",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-11-2025",
-      "result": "560 - 11 - 335",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-11-2025",
-      "result": "890 - 77 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-11-2025",
-      "result": "136 - 03 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-11-2025",
-      "result": "120 - 33 - 120",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-11-2025",
-      "result": "147 - 21 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-11-2025",
-      "result": "233 - 80 - 677",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-11-2025",
-      "result": "349 - 65 - 177",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-11-2025",
-      "result": "120 - 35 - 500",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-11-2015",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-11-2025",
-      "result": "169 - 62 - 345",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-11-2025",
-      "result": "477 - 89 - 450",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-11-2025",
-      "result": "346 - 33 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-11-2025",
-      "result": "345 - 20 - 190",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-11-2025",
-      "result": "440 - 86 - 790",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-11-2025",
-      "result": "110 - 28 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-11-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-12-2025",
-      "result": "357 - 59 - 199",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-12-2025",
-      "result": "344 - 15 - 889",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-12-2025",
-      "result": "455 - 44 - 455",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-12-2025",
-      "result": "250 - 73 - 689",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-12-2025",
-      "result": "130 - 44 - 112",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-12-2025",
-      "result": "680 - 44 - 130",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-12-2025",
-      "result": "239 - 47 - 179",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-12-2025",
-      "result": "249 - 55 - 230",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-12-2025",
-      "result": "777 - 14 - 167",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-12-2025",
-      "result": "570 - 29 - 135",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-12-2025",
-      "result": "199 - 96 - 178",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-12-2025",
-      "result": "170 - 89 - 478",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-12-2025",
-      "result": "123 - 62 - 570",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-12-2025",
-      "result": "478 - 90 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-12-2025",
-      "result": "459 - 89 - 478",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-12-2025",
-      "result": "800 - 81 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-12-2025",
-      "result": "137 - 17 - 458",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-12-2025",
-      "result": "270 - 97 - 223",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-12-2025",
-      "result": "560 - 19 - 900",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-12-2025",
-      "result": "679 - 28 - 224",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-12-2025",
-      "result": "124 - 72 - 147",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-12-2025",
-      "result": "670 - 38 - 459",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-12-2025",
-      "result": "245 - 12 - 156",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-12-2025",
-      "result": "389 - 05 - 690",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-12-2025",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-12-2025",
-      "result": "560 - 19 - 379",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-12-2025",
-      "result": "345 - 27 - 250",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-12-2025",
-      "result": "258 - 50 - 190",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-01-2026",
-      "result": "139 - 36 - 114",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-01-2026",
-      "result": "688 - 24 - 220",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-01-2026",
-      "result": "136 - 08 - 990",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-01-2026",
-      "result": "448 - 67 - 700",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-01-2026",
-      "result": "690 - 57 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-01-2026",
-      "result": "899 - 65 - 140",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-01-2026",
-      "result": "448 - 61 - 380",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-01-2026",
-      "result": "138 - 28 - 260",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-01-2026",
-      "result": "690 - 53 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-01-2026",
-      "result": "590 - 41 - 344",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-01-2026",
-      "result": "799 - 59 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-01-2026",
-      "result": "460 - 04 - 699",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-01-2026",
-      "result": "350 - 87 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-01-2026",
-      "result": "590 - 40 - 569",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-01-2026",
-      "result": "568 - 90 - 145",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-01-2026",
-      "result": "128 - 19 - 568",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-01-2026",
-      "result": "167 - 43 - 490",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-01-2026",
-      "result": "457 - 64 - 400",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-01-2026",
-      "result": "229 - 31 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-01-2026",
-      "result": "190 - 08 - 125",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-01-2026",
-      "result": "159 - 51 - 128",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-01-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-01-2026",
-      "result": "388 - 95 - 258",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-01-2026",
-      "result": "155 - 11 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-01-2026",
-      "result": "334 - 09 - 270",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-01-2026",
-      "result": "233 - 80 - 226",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-01-2026",
-      "result": "124 - 77 - 458",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-02-2026",
-      "result": "140 - 53 - 139",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-02-2026",
-      "result": "456 - 58 - 350",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-02-2026",
-      "result": "468 - 86 - 259",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-02-2026",
-      "result": "237 - 27 - 133",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-02-2026",
-      "result": "269 - 75 - 780",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-02-2026",
-      "result": "566 - 79 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-02-2026",
-      "result": "260 - 85 - 122",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-02-2026",
-      "result": "678 - 14 - 338",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-02-2026",
-      "result": "359 - 78 - 378",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-02-2026",
-      "result": "288 - 83 - 490",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-02-2026",
-      "result": "567 - 83 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-02-2026",
-      "result": "137 - 11 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-02-2026",
-      "result": "344 - 15 - 230",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-02-2026",
-      "result": "550 - 04 - 130",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-02-2026",
-      "result": "560 - 16 - 169",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-02-2026",
-      "result": "279 - 89 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-02-2026",
-      "result": "155 - 10 - 488",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-02-2026",
-      "result": "590 - 41 - 227",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-02-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-02-2026",
-      "result": "166 - 35 - 258",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-02-2026",
-      "result": "490 - 33 - 670",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-02-2026",
-      "result": "577 - 92 - 147",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-02-2026",
-      "result": "259 - 67 - 467",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-02-2026",
-      "result": "888 - 48 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-02-2026",
-      "result": "136 - 04 - 699",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-03-2026",
-      "result": "470 - 14 - 590",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-03-2026",
-      "result": "788 - 31 - 245",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-03-2026",
-      "result": "446 - 46 - 790",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-03-2026",
-      "result": "358 - 62 - 336",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-03-2026",
-      "result": "677 - 00 - 550",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-03-2026",
-      "result": "390 - 29 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-03-2026",
-      "result": "258 - 50 - 235",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-03-2026",
-      "result": "568 - 97 - 160",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-03-2026",
-      "result": "266 - 44 - 158",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-03-2026",
-      "result": "234 - 92 - 110",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-03-2026",
-      "result": "349 - 66 - 277",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-03-2026",
-      "result": "289 - 96 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-03-2026",
-      "result": "279 - 83 - 689",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-03-2026",
-      "result": "136 - 00 - 145",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-03-2026",
-      "result": "190 - 03 - 139",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-03-2026",
-      "result": "128 - 18 - 189",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-03-2026",
-      "result": "228 - 23 - 580",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-03-2026",
-      "result": "990 - 88 - 378",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-03-2026",
-      "result": "890 - 75 - 177",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-03-2026",
-      "result": "469 - 97 - 179",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-03-2026",
-      "result": "389 - 04 - 699",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-03-2026",
-      "result": "160 - 72 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-03-2026",
-      "result": "138 - 29 - 577",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-03-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-03-2026",
-      "result": "140 - 51 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-03-2026",
-      "result": "260 - 82 - 499",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-04-2026",
-      "result": "150 - 67 - 223",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-04-2026",
-      "result": "126 - 90 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-04-2026",
-      "result": "268 - 67 - 458",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-04-2026",
-      "result": "330 - 65 - 456",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-04-2026",
-      "result": "990 - 82 - 480",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-04-2026",
-      "result": "389 - 02 - 147",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-04-2026",
-      "result": "789 - 45 - 140",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-04-2026",
-      "result": "689 - 32 - 480",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-04-2026",
-      "result": "180 - 93 - 139",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-04-2026",
-      "result": "569 - 09 - 388",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-04-2026",
-      "result": "249 - 57 - 377",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-04-2026",
-      "result": "778 - 26 - 240",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-04-2026",
-      "result": "128 - 18 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-04-2026",
-      "result": "455 - 49 - 180",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-04-2026",
-      "result": "236 - 13 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-04-2026",
-      "result": "449 - 72 - 336",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-04-2026",
-      "result": "237 - 25 - 113",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-04-2026",
-      "result": "236 - 11 - 128",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-04-2026",
-      "result": "457 - 61 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-04-2026",
-      "result": "569 - 00 - 136",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-04-2026",
-      "result": "118 - 09 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-04-2026",
-      "result": "135 - 90 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-04-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-04-2026",
-      "result": "349 - 66 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-04-2026",
-      "result": "468 - 84 - 158",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-04-2026",
-      "result": "360 - 97 - 188",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-04-2026",
-      "result": "167 - 44 - 149",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-05-2026",
-      "result": "257 - 43 - 580",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-05-2026",
-      "result": "147 - 21 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-05-2026",
-      "result": "220 - 41 - 119",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-05-2026",
-      "result": "189 - 83 - 580",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-05-2026",
-      "result": "440 - 89 - 126",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-05-2026",
-      "result": "688 - 28 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-05-2026",
-      "result": "466 - 61 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-05-2026",
-      "result": "223 - 78 - 800",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-05-2026",
-      "result": "499 - 23 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-05-2026",
-      "result": "246 - 21 - 678",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-05-2026",
-      "result": "247 - 32 - 570",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-05-2026",
-      "result": "569 - 06 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-05-2026",
-      "result": "388 - 94 - 248",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-05-2026",
-      "result": "245 - 19 - 469",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-05-2026",
-      "result": "150 - 60 - 550",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-05-2026",
-      "result": "367 - 61 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-05-2026",
-      "result": "120 - 38 - 134",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-05-2026",
-      "result": "479 - 07 - 223",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-05-2026",
-      "result": "990 - 86 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-05-2026",
-      "result": "557 - 71 - 399",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-05-2026",
-      "result": "390 - 27 - 250",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-05-2026",
-      "result": "588 - 16 - 169",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-05-2026",
-      "result": "126 - 99 - 289",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-05-2026",
-      "result": "480 - 22 - 156",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-05-2026",
-      "result": "449 - 72 - 480",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-05-2026",
-      "result": "680 - 48 - 567",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-05-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-06-2026",
-      "result": "190 - 00 - 244",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-06-2026",
-      "result": "179 - 78 - 459",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-06-2026",
-      "result": "566 - 77 - 179",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-06-2026",
-      "result": "180 - 91 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-06-2026",
-      "result": "490 - 34 - 248",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-06-2026",
-      "result": "270 - 93 - 120",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-06-2026",
-      "result": "238 - 33 - 689",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-06-2026",
-      "result": "250 - 74 - 446",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-06-2026",
-      "result": "336 - 23 - 300",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-06-2026",
-      "result": "135 - 98 - 170",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-06-2026",
-      "result": "240 - 60 - 226",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-06-2026",
-      "result": "180 - 95 - 456",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-06-2026",
-      "result": "135 - 98 - 279",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-06-2026",
-      "result": "233 - 88 - 567",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-06-2026",
-      "result": "400 - 44 - 338",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-06-2026",
-      "result": "268 - 63 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-06-2026",
-      "result": "290 - 10 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-06-2026",
-      "result": "479 - 09 - 667",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-06-2026",
-      "result": "900 - 91 - 470",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-06-2026",
-      "result": "590 - 40 - 118",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-06-2026",
-      "result": "299 - 03 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-06-2026",
-      "result": "990 - 80 - 118",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-06-2026",
-      "result": "380 - 10 - 145",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-06-2026",
-      "result": "678 - 16 - 268",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-06-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-06-2026",
-      "result": "234 - 99 - 450",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-06-2026",
-      "result": "559 - 97 - 269",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-07-2026",
-      "result": "350 - 81 - 236",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-07-2026",
-      "result": "388 - 90 - 370",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-07-2026",
-      "result": "990 - 89 - 577",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-07-2026",
-      "result": "237 - 20 - 235",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-07-2026",
-      "result": "234 - 95 - 690",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-07-2026",
-      "result": "266 - 42 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-07-2026",
-      "result": "470 - 13 - 238",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-07-2026",
-      "result": "169 - 63 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-07-2026",
-      "result": "349 - 66 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-07-2026",
-      "result": "348 - 56 - 367",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-07-2026",
-      "result": "779 - 36 - 114",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-07-2026",
-      "result": "588 - 10 - 668",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-07-2026",
-      "result": "200 - 25 - 249",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-07-2026",
-      "result": "158 - 41 - 227",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-07-2026",
-      "result": "446 - 40 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-07-2026",
-      "result": "460 - 06 - 240",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-07-2026",
-      "result": "169 - 63 - 355",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-07-2026",
-      "result": "270 - 93 - 337",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-07-2026",
-      "result": "259 - 64 - 338",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-07-2026",
-      "result": "678 - 13 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-07-2026",
-      "result": "148 - 35 - 357",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-07-2026",
-      "result": "557 - 79 - 289",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-07-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-07-2026",
-      "result": "260 - 81 - 579",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-07-2026",
-      "result": "246 - 25 - 690",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-07-2026",
-      "result": "190 - 03 - 689",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-07-2026",
-      "result": "690 - 51 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-07-2026",
-      "result": "790 - 60 - 280",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-08-2026",
-      "result": "146 - 17 - 359",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-08-2026",
-      "result": "890 - 73 - 166",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-08-2026",
-      "result": "158 - 45 - 780",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-08-2026",
-      "result": "169 - 60 - 479",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-08-2026",
-      "result": "379 - 91 - 380",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-08-2026",
-      "result": "480 - 28 - 350",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-08-2026",
-      "result": "489 - 15 - 249",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-08-2026",
-      "result": "570 - 26 - 259",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-08-2026",
-      "result": "179 - 77 - 340",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-08-2026",
-      "result": "890 - 73 - 157",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-08-2026",
-      "result": "688 - 27 - 278",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-08-2026",
-      "result": "557 - 71 - 489",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-08-2026",
-      "result": "127 - 03 - 148",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-08-2026",
-      "result": "556 - 63 - 580",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-08-2026",
-      "result": "149 - 46 - 556",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-08-2026",
-      "result": "126 - 90 - 127",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "21-08-2026",
-      "result": "400 - 41 - 588",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "22-08-2026",
-      "result": "445 - 32 - 589",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "23-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "24-08-2026",
-      "result": "567 - 81 - 380",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "25-08-2026",
-      "result": "266 - 48 - 440",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "26-08-2026",
-      "result": "119 - 17 - 269",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "27-08-2026",
-      "result": "235 - 03 - 346",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "28-08-2026",
-      "result": "137 - 19 - 900",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "29-08-2026",
-      "result": "135 - 92 - 246",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "30-08-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "31-08-2026",
-      "result": "380 - 15 - 366",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "01-09-2026",
-      "result": "360 - 90 - 280",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "02-09-2026",
-      "result": "270 - 97 - 377",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "03-09-2026",
-      "result": "660 - 21 - 146",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "04-09-2026",
-      "result": "230 - 53 - 247",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "05-09-2026",
-      "result": "379 - 92 - 589",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "06-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "07-09-2026",
-      "result": "259 - 67 - 133",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "08-09-2026",
-      "result": "259 - 60 - 488",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "09-09-2026",
-      "result": "233 - 84 - 158",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "10-09-2026",
-      "result": "280 - 08 - 369",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "11-09-2026",
-      "result": "348 - 58 - 125",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "12-09-2026",
-      "result": "389 - 04 - 257",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "13-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "14-09-2026",
-      "result": "158 - 45 - 899",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "15-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "16-09-2026",
-      "result": "244 - 05 - 230",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "17-09-2026",
-      "result": "357 - 52 - 237",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "18-09-2026",
-      "result": "178 - 61 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "19-09-2026",
-      "result": "245 - 16 - 178",
-      "isHoliday": false
-    },
-    {
-      "marketName": "TIME BAZAR",
-      "date": "20-09-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
     {
       "marketName": "SRIDEVI",
       "date": "01-10-2025",
@@ -8277,6 +6201,2094 @@
       "marketName": "MILAN DAY",
       "date": "22-09-2026",
       "result": "486 - 86 - 349",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-10-2025",
+      "result": "169 - 62 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-10-2025",
+      "result": "558 - 86 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-10-2025",
+      "result": "229 - 30 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-10-2025",
+      "result": "369 - 84 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-10-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-10-2025",
+      "result": "240 - 69 - 568",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-10-2025",
+      "result": "157 - 39 - 559",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-10-2025",
+      "result": "568 - 91 - 560",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-10-2025",
+      "result": "168 - 50 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-10-2025",
+      "result": "116 - 87 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-10-2025",
+      "result": "358 - 67 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-10-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-10-2025",
+      "result": "115 - 75 - 339",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-10-2025",
+      "result": "227 - 18 - 477",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-10-2025",
+      "result": "560 - 13 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-10-2025",
+      "result": "478 - 93 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-10-2025",
+      "result": "123 - 62 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-10-2025",
+      "result": "334 - 09 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-10-2025",
+      "result": "168 - 65 - 366",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-10-2025",
+      "result": "357 - 54 - 266",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-10-2025",
+      "result": "257 - 41 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-10-2025",
+      "result": "150 - 62 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-11-2025",
+      "result": "129 - 23 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-11-2025",
+      "result": "145 - 07 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-11-2025",
+      "result": "250 - 74 - 356",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-11-2025",
+      "result": "157 - 35 - 456",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-11-2025",
+      "result": "134 - 81 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-11-2025",
+      "result": "557 - 78 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-11-2025",
+      "result": "679 - 23 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-11-2025",
+      "result": "239 - 43 - 229",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-11-2025",
+      "result": "259 - 62 - 246",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-11-2025",
+      "result": "124 - 75 - 889",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-11-2025",
+      "result": "356 - 46 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-11-2025",
+      "result": "560 - 11 - 335",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-11-2025",
+      "result": "890 - 77 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-11-2025",
+      "result": "136 - 03 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-11-2025",
+      "result": "120 - 33 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-11-2025",
+      "result": "147 - 21 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-11-2025",
+      "result": "233 - 80 - 677",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-11-2025",
+      "result": "349 - 65 - 177",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-11-2025",
+      "result": "120 - 35 - 500",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-11-2015",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-11-2025",
+      "result": "169 - 62 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-11-2025",
+      "result": "477 - 89 - 450",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-11-2025",
+      "result": "346 - 33 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-11-2025",
+      "result": "345 - 20 - 190",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-11-2025",
+      "result": "440 - 86 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-11-2025",
+      "result": "110 - 28 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-11-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-12-2025",
+      "result": "357 - 59 - 199",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-12-2025",
+      "result": "344 - 15 - 889",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-12-2025",
+      "result": "455 - 44 - 455",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-12-2025",
+      "result": "250 - 73 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-12-2025",
+      "result": "130 - 44 - 112",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-12-2025",
+      "result": "680 - 44 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-12-2025",
+      "result": "239 - 47 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-12-2025",
+      "result": "249 - 55 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-12-2025",
+      "result": "777 - 14 - 167",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-12-2025",
+      "result": "570 - 29 - 135",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-12-2025",
+      "result": "199 - 96 - 178",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-12-2025",
+      "result": "170 - 89 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-12-2025",
+      "result": "123 - 62 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-12-2025",
+      "result": "478 - 90 - 389",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-12-2025",
+      "result": "459 - 89 - 478",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-12-2025",
+      "result": "800 - 81 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-12-2025",
+      "result": "137 - 17 - 458",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-12-2025",
+      "result": "270 - 97 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-12-2025",
+      "result": "560 - 19 - 900",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-12-2025",
+      "result": "679 - 28 - 224",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-12-2025",
+      "result": "124 - 72 - 147",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-12-2025",
+      "result": "670 - 38 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-12-2025",
+      "result": "245 - 12 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-12-2025",
+      "result": "389 - 05 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-12-2025",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-12-2025",
+      "result": "560 - 19 - 379",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-12-2025",
+      "result": "345 - 27 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-12-2025",
+      "result": "258 - 50 - 190",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-01-2026",
+      "result": "139 - 36 - 114",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-01-2026",
+      "result": "688 - 24 - 220",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-01-2026",
+      "result": "136 - 08 - 990",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-01-2026",
+      "result": "448 - 67 - 700",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-01-2026",
+      "result": "690 - 57 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-01-2026",
+      "result": "899 - 65 - 140",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-01-2026",
+      "result": "448 - 61 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-01-2026",
+      "result": "138 - 28 - 260",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-01-2026",
+      "result": "690 - 53 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-01-2026",
+      "result": "590 - 41 - 344",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-01-2026",
+      "result": "799 - 59 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-01-2026",
+      "result": "460 - 04 - 699",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-01-2026",
+      "result": "350 - 87 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-01-2026",
+      "result": "590 - 40 - 569",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-01-2026",
+      "result": "568 - 90 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-01-2026",
+      "result": "128 - 19 - 568",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-01-2026",
+      "result": "167 - 43 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-01-2026",
+      "result": "457 - 64 - 400",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-01-2026",
+      "result": "229 - 31 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-01-2026",
+      "result": "190 - 08 - 125",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-01-2026",
+      "result": "159 - 51 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-01-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-01-2026",
+      "result": "388 - 95 - 258",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-01-2026",
+      "result": "155 - 11 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-01-2026",
+      "result": "334 - 09 - 270",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-01-2026",
+      "result": "233 - 80 - 226",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-01-2026",
+      "result": "124 - 77 - 458",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-02-2026",
+      "result": "140 - 53 - 139",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-02-2026",
+      "result": "456 - 58 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-02-2026",
+      "result": "468 - 86 - 259",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-02-2026",
+      "result": "237 - 27 - 133",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-02-2026",
+      "result": "269 - 75 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-02-2026",
+      "result": "566 - 79 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-02-2026",
+      "result": "260 - 85 - 122",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-02-2026",
+      "result": "678 - 14 - 338",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-02-2026",
+      "result": "359 - 78 - 378",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-02-2026",
+      "result": "288 - 83 - 490",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-02-2026",
+      "result": "567 - 83 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-02-2026",
+      "result": "137 - 11 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-02-2026",
+      "result": "344 - 15 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-02-2026",
+      "result": "550 - 04 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-02-2026",
+      "result": "560 - 16 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-02-2026",
+      "result": "279 - 89 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-02-2026",
+      "result": "155 - 10 - 488",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-02-2026",
+      "result": "590 - 41 - 227",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-02-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-02-2026",
+      "result": "166 - 35 - 258",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-02-2026",
+      "result": "490 - 33 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-02-2026",
+      "result": "577 - 92 - 147",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-02-2026",
+      "result": "259 - 67 - 467",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-02-2026",
+      "result": "888 - 48 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-02-2026",
+      "result": "136 - 04 - 699",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-03-2026",
+      "result": "470 - 14 - 590",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-03-2026",
+      "result": "788 - 31 - 245",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-03-2026",
+      "result": "446 - 46 - 790",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-03-2026",
+      "result": "358 - 62 - 336",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-03-2026",
+      "result": "677 - 00 - 550",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-03-2026",
+      "result": "390 - 29 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-03-2026",
+      "result": "258 - 50 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-03-2026",
+      "result": "568 - 97 - 160",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-03-2026",
+      "result": "266 - 44 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-03-2026",
+      "result": "234 - 92 - 110",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-03-2026",
+      "result": "349 - 66 - 277",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-03-2026",
+      "result": "289 - 96 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-03-2026",
+      "result": "279 - 83 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-03-2026",
+      "result": "136 - 00 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-03-2026",
+      "result": "190 - 03 - 139",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-03-2026",
+      "result": "128 - 18 - 189",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-03-2026",
+      "result": "228 - 23 - 580",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-03-2026",
+      "result": "990 - 88 - 378",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-03-2026",
+      "result": "890 - 75 - 177",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-03-2026",
+      "result": "469 - 97 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-03-2026",
+      "result": "389 - 04 - 699",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-03-2026",
+      "result": "160 - 72 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-03-2026",
+      "result": "138 - 29 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-03-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-03-2026",
+      "result": "140 - 51 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-03-2026",
+      "result": "260 - 82 - 499",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-04-2026",
+      "result": "150 - 67 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-04-2026",
+      "result": "126 - 90 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-04-2026",
+      "result": "268 - 67 - 458",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-04-2026",
+      "result": "330 - 65 - 456",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-04-2026",
+      "result": "990 - 82 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-04-2026",
+      "result": "389 - 02 - 147",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-04-2026",
+      "result": "789 - 45 - 140",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-04-2026",
+      "result": "689 - 32 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-04-2026",
+      "result": "180 - 93 - 139",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-04-2026",
+      "result": "569 - 09 - 388",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-04-2026",
+      "result": "249 - 57 - 377",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-04-2026",
+      "result": "778 - 26 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-04-2026",
+      "result": "128 - 18 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-04-2026",
+      "result": "455 - 49 - 180",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-04-2026",
+      "result": "236 - 13 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-04-2026",
+      "result": "449 - 72 - 336",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-04-2026",
+      "result": "237 - 25 - 113",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-04-2026",
+      "result": "236 - 11 - 128",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-04-2026",
+      "result": "457 - 61 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-04-2026",
+      "result": "569 - 00 - 136",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-04-2026",
+      "result": "118 - 09 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-04-2026",
+      "result": "135 - 90 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-04-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-04-2026",
+      "result": "349 - 66 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-04-2026",
+      "result": "468 - 84 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-04-2026",
+      "result": "360 - 97 - 188",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-04-2026",
+      "result": "167 - 44 - 149",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-05-2026",
+      "result": "257 - 43 - 580",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-05-2026",
+      "result": "147 - 21 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-05-2026",
+      "result": "220 - 41 - 119",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-05-2026",
+      "result": "189 - 83 - 580",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-05-2026",
+      "result": "440 - 89 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-05-2026",
+      "result": "688 - 28 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-05-2026",
+      "result": "466 - 61 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-05-2026",
+      "result": "223 - 78 - 800",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-05-2026",
+      "result": "499 - 23 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-05-2026",
+      "result": "246 - 21 - 678",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-05-2026",
+      "result": "247 - 32 - 570",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-05-2026",
+      "result": "569 - 06 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-05-2026",
+      "result": "388 - 94 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-05-2026",
+      "result": "245 - 19 - 469",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-05-2026",
+      "result": "150 - 60 - 550",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-05-2026",
+      "result": "367 - 61 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-05-2026",
+      "result": "120 - 38 - 134",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-05-2026",
+      "result": "479 - 07 - 223",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-05-2026",
+      "result": "990 - 86 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-05-2026",
+      "result": "557 - 71 - 399",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-05-2026",
+      "result": "390 - 27 - 250",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-05-2026",
+      "result": "588 - 16 - 169",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-05-2026",
+      "result": "126 - 99 - 289",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-05-2026",
+      "result": "480 - 22 - 156",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-05-2026",
+      "result": "449 - 72 - 480",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-05-2026",
+      "result": "680 - 48 - 567",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-05-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-06-2026",
+      "result": "190 - 00 - 244",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-06-2026",
+      "result": "179 - 78 - 459",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-06-2026",
+      "result": "566 - 77 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-06-2026",
+      "result": "180 - 91 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-06-2026",
+      "result": "490 - 34 - 248",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-06-2026",
+      "result": "270 - 93 - 120",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-06-2026",
+      "result": "238 - 33 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-06-2026",
+      "result": "250 - 74 - 446",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-06-2026",
+      "result": "336 - 23 - 300",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-06-2026",
+      "result": "135 - 98 - 170",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-06-2026",
+      "result": "240 - 60 - 226",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-06-2026",
+      "result": "180 - 95 - 456",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-06-2026",
+      "result": "135 - 98 - 279",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-06-2026",
+      "result": "233 - 88 - 567",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-06-2026",
+      "result": "400 - 44 - 338",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-06-2026",
+      "result": "268 - 63 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-06-2026",
+      "result": "290 - 10 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-06-2026",
+      "result": "479 - 09 - 667",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-06-2026",
+      "result": "900 - 91 - 470",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-06-2026",
+      "result": "590 - 40 - 118",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-06-2026",
+      "result": "299 - 03 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-06-2026",
+      "result": "990 - 80 - 118",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-06-2026",
+      "result": "380 - 10 - 145",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-06-2026",
+      "result": "678 - 16 - 268",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-06-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-06-2026",
+      "result": "234 - 99 - 450",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-06-2026",
+      "result": "559 - 97 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-07-2026",
+      "result": "350 - 81 - 236",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-07-2026",
+      "result": "388 - 90 - 370",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-07-2026",
+      "result": "990 - 89 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-07-2026",
+      "result": "237 - 20 - 235",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-07-2026",
+      "result": "234 - 95 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-07-2026",
+      "result": "266 - 42 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-07-2026",
+      "result": "470 - 13 - 238",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-07-2026",
+      "result": "169 - 63 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-07-2026",
+      "result": "349 - 66 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-07-2026",
+      "result": "348 - 56 - 367",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-07-2026",
+      "result": "779 - 36 - 114",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-07-2026",
+      "result": "588 - 10 - 668",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-07-2026",
+      "result": "200 - 25 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-07-2026",
+      "result": "158 - 41 - 227",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-07-2026",
+      "result": "446 - 40 - 389",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-07-2026",
+      "result": "460 - 06 - 240",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-07-2026",
+      "result": "169 - 63 - 355",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-07-2026",
+      "result": "270 - 93 - 337",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-07-2026",
+      "result": "259 - 64 - 338",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-07-2026",
+      "result": "678 - 13 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-07-2026",
+      "result": "148 - 35 - 357",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-07-2026",
+      "result": "557 - 79 - 289",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-07-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-07-2026",
+      "result": "260 - 81 - 579",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-07-2026",
+      "result": "246 - 25 - 690",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-07-2026",
+      "result": "190 - 03 - 689",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-07-2026",
+      "result": "690 - 51 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-07-2026",
+      "result": "790 - 60 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-08-2026",
+      "result": "146 - 17 - 359",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-08-2026",
+      "result": "890 - 73 - 166",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-08-2026",
+      "result": "158 - 45 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-08-2026",
+      "result": "169 - 60 - 479",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-08-2026",
+      "result": "379 - 91 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-08-2026",
+      "result": "480 - 28 - 350",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-08-2026",
+      "result": "489 - 15 - 249",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-08-2026",
+      "result": "570 - 26 - 259",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-08-2026",
+      "result": "179 - 77 - 340",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-08-2026",
+      "result": "890 - 73 - 157",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-08-2026",
+      "result": "688 - 27 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-08-2026",
+      "result": "557 - 71 - 489",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-08-2026",
+      "result": "127 - 03 - 148",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-08-2026",
+      "result": "556 - 63 - 580",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-08-2026",
+      "result": "149 - 46 - 556",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-08-2026",
+      "result": "126 - 90 - 127",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-08-2026",
+      "result": "400 - 41 - 588",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-08-2026",
+      "result": "445 - 32 - 589",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "23-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "24-08-2026",
+      "result": "567 - 81 - 380",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "25-08-2026",
+      "result": "266 - 48 - 440",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "26-08-2026",
+      "result": "119 - 17 - 269",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "27-08-2026",
+      "result": "235 - 03 - 346",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "28-08-2026",
+      "result": "137 - 19 - 900",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "29-08-2026",
+      "result": "135 - 92 - 246",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "30-08-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "31-08-2026",
+      "result": "380 - 15 - 366",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "01-09-2026",
+      "result": "360 - 90 - 280",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "02-09-2026",
+      "result": "270 - 97 - 377",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "03-09-2026",
+      "result": "660 - 21 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "04-09-2026",
+      "result": "230 - 53 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "05-09-2026",
+      "result": "379 - 92 - 589",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "06-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "07-09-2026",
+      "result": "259 - 67 - 133",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "08-09-2026",
+      "result": "259 - 60 - 488",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "09-09-2026",
+      "result": "233 - 84 - 158",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "10-09-2026",
+      "result": "280 - 08 - 369",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "11-09-2026",
+      "result": "348 - 58 - 125",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "12-09-2026",
+      "result": "389 - 04 - 257",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "13-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "14-09-2026",
+      "result": "158 - 45 - 899",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "15-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "16-09-2026",
+      "result": "244 - 05 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "17-09-2026",
+      "result": "357 - 52 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "18-09-2026",
+      "result": "178 - 61 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "19-09-2026",
+      "result": "245 - 16 - 178",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "20-09-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "21-09-2026",
+      "result": "369 - 83 - 247",
+      "isHoliday": false
+    },
+    {
+      "marketName": "TIME BAZAR",
+      "date": "22-09-2026",
+      "result": "678 - 12 - 480",
       "isHoliday": false
     }
   ]
