@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/6\/2026, 9:25:10 PM",
+  "last_updated": "10\/6\/2026, 9:36:38 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -8626,6 +8626,60 @@
       "marketName": "Kalyan",
       "date": "06-10-2026",
       "result": "167 - 47 - 115",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "28-09-2026",
+      "result": "137 - 11 - 146",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "29-09-2026",
+      "result": "123 - 64 - 130",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "30-09-2026",
+      "result": "136 - 06 - 367",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "01-10-2026",
+      "result": "357 - 55 - 780",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "02-10-2026",
+      "result": "167 - 42 - 246",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "03-10-2026",
+      "result": "578 - 02 - 246",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "04-10-2026",
+      "result": "257 - 42 - 237",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "05-10-2026",
+      "result": "889 - 59 - 577",
+      "isHoliday": false
+    },
+    {
+      "marketName": "SRIDEVI NIGHT",
+      "date": "06-10-2026",
+      "result": "280 - 06 - 600",
       "isHoliday": false
     }
   ]
