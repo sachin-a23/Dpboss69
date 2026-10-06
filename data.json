@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/6\/2026, 9:36:38 PM",
+  "last_updated": "10\/6\/2026, 9:53:57 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -8680,6 +8680,36 @@
       "marketName": "SRIDEVI NIGHT",
       "date": "06-10-2026",
       "result": "280 - 06 - 600",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "01-10-2026",
+      "result": "245 - 14 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "02-10-2026",
+      "result": "300 - 33 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "03-10-2026",
+      "result": "300 - 33 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "04-10-2026",
+      "result": "680 - 40 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "05-10-2026",
+      "result": "256 - 30 - 488",
       "isHoliday": false
     }
   ]
