@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/7\/2026, 9:03:29 PM",
+  "last_updated": "10\/7\/2026, 9:11:33 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -6304,6 +6304,18 @@
       "marketName": "Kalyan",
       "date": "06-10-2026",
       "result": "167 - 47 - 115",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MAIN BAZAR",
+      "date": "05-10-2026",
+      "result": "258 - 53 - 229",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MAIN BAZAR",
+      "date": "06-10-2026",
+      "result": "770 - 43 - 490",
       "isHoliday": false
     }
   ]
