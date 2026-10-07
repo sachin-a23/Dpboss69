@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/7\/2026, 9:11:51 PM",
+  "last_updated": "10\/7\/2026, 9:12:02 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -6328,6 +6328,18 @@
       "marketName": "RAJDHANI NIGHT",
       "date": "06-10-2026",
       "result": "459 - 85 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN NIGHT",
+      "date": "07-10-2026",
+      "result": "266 - 41 - 560",
+      "isHoliday": false
+    },
+    {
+      "marketName": "KALYAN NIGHT",
+      "date": "06-10-2026",
+      "result": "137 - 11 - 128",
       "isHoliday": false
     }
   ]
