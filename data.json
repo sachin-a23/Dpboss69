@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/7\/2026, 9:12:14 PM",
+  "last_updated": "10\/7\/2026, 9:12:27 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -6352,6 +6352,18 @@
       "marketName": "MILAN NIGHT",
       "date": "06-10-2026",
       "result": "129 - 25 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR NIGHT",
+      "date": "05-10-2026",
+      "result": "455 - 43 - 670",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR NIGHT",
+      "date": "07-10-2026",
+      "result": "460 - 07 - 359",
       "isHoliday": false
     }
   ]
