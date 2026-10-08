@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/8\/2026, 5:51:23 PM",
+  "last_updated": "10\/8\/2026, 5:52:01 PM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -3205,18 +3205,6 @@
       "isHoliday": false
     },
     {
-      "marketName": "RAJDHANI DAY",
-      "date": "05-10-2026",
-      "result": "170 - 83 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "06-10-2026",
-      "result": "112 - 45 - 168",
-      "isHoliday": false
-    },
-    {
       "marketName": "SRIDEVI",
       "date": "20-01-2026",
       "result": "158 - 45 - 177",
@@ -6382,6 +6370,24 @@
       "marketName": "MADHUR DAY",
       "date": "07-10-2026",
       "result": "130 - 46 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "05-10-2026",
+      "result": "170 - 83 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "06-10-2026",
+      "result": "112 - 45 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "08-10-2026",
+      "result": "689 - 32 - 345",
       "isHoliday": false
     }
   ]
