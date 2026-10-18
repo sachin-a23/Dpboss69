@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/18\/2026, 7:11:15 AM",
+  "last_updated": "10\/18\/2026, 7:11:44 AM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -88,72 +88,6 @@
       "marketName": "SRIDEVI NIGHT",
       "date": "06-10-2026",
       "result": "280 - 06 - 600",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "05-10-2026",
-      "result": "170 - 83 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "06-10-2026",
-      "result": "112 - 45 - 168",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "08-10-2026",
-      "result": "689 - 32 - 345",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "09-10-2026",
-      "result": "550 - 07 - 340",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "10-10-2026",
-      "result": "128 - 10 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "11-10-2026",
-      "result": "*** - ** - ***",
-      "isHoliday": true
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "12-10-2026",
-      "result": "560 - 11 - 137",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "13-10-2026",
-      "result": "177 - 57 - 278",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "14-10-2026",
-      "result": "160 - 73 - 788",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "15-10-2026",
-      "result": "229 - 30 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "RAJDHANI DAY",
-      "date": "16-10-2026",
-      "result": "789 - 49 - 126",
       "isHoliday": false
     },
     {
@@ -6724,6 +6658,78 @@
       "marketName": "Kalyan",
       "date": "17-10-2026",
       "result": "250 - 77 - 359",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "05-10-2026",
+      "result": "170 - 83 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "06-10-2026",
+      "result": "112 - 45 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "08-10-2026",
+      "result": "689 - 32 - 345",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "09-10-2026",
+      "result": "550 - 07 - 340",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "10-10-2026",
+      "result": "128 - 10 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "11-10-2026",
+      "result": "*** - ** - ***",
+      "isHoliday": true
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "12-10-2026",
+      "result": "560 - 11 - 137",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "13-10-2026",
+      "result": "177 - 57 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "14-10-2026",
+      "result": "160 - 73 - 788",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "15-10-2026",
+      "result": "229 - 30 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "16-10-2026",
+      "result": "789 - 49 - 126",
+      "isHoliday": false
+    },
+    {
+      "marketName": "RAJDHANI DAY",
+      "date": "17-10-2026",
+      "result": "147 - 23 - 139",
       "isHoliday": false
     }
   ]
