@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/22\/2026, 7:14:20 AM",
+  "last_updated": "10\/22\/2026, 7:15:16 AM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -1721,96 +1721,6 @@
       "marketName": "SRIDEVI",
       "date": "20-10-2026",
       "result": "238 - 39 - 333",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "05-10-2026",
-      "result": "455 - 43 - 670",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "07-10-2026",
-      "result": "460 - 07 - 359",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "08-10-2026",
-      "result": "369 - 89 - 270",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "09-10-2026",
-      "result": "449 - 78 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "10-10-2026",
-      "result": "270 - 95 - 168",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "11-10-2026",
-      "result": "189 - 84 - 149",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "12-10-2026",
-      "result": "126 - 92 - 228",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "13-10-2026",
-      "result": "478 - 96 - 358",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "14-10-2026",
-      "result": "150 - 60 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "15-10-2026",
-      "result": "188 - 74 - 680",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "16-10-2026",
-      "result": "136 - 05 - 357",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "17-10-2026",
-      "result": "790 - 60 - 118",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "18-10-2026",
-      "result": "347 - 49 - 234",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "19-10-2026",
-      "result": "259 - 63 - 256",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR NIGHT",
-      "date": "20-10-2026",
-      "result": "136 - 05 - 230",
       "isHoliday": false
     },
     {
@@ -6953,6 +6863,12 @@
       "marketName": "ARAMBH DAY",
       "date": "20-10-2026",
       "result": "226 - 07 - 179",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR NIGHT",
+      "date": "05-10-2026",
+      "result": "455 - 43 - 670",
       "isHoliday": false
     }
   ]
