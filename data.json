@@ -7833,6 +7833,13 @@
       "jodi": "05",
       "close": "230",
       "isHoliday": false
+    },
+    {
+      "date": "21-10-2026",
+      "open": "660",
+      "jodi": "25",
+      "close": "799",
+      "isHoliday": false
     }
   ],
   "RAJDHANI DAY": [
