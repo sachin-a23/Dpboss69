@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/22\/2026, 7:11:55 AM",
+  "last_updated": "10\/22\/2026, 7:14:20 AM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -15,7 +15,8 @@
     "RAJDHANI NIGHT",
     "MAIN BAZAR",
     "Kalyan Day",
-    "Kalyan"
+    "Kalyan",
+    "ARAMBH DAY"
   ],
   "records": [
     {
@@ -6940,6 +6941,18 @@
       "marketName": "Kalyan",
       "date": "20-10-2026",
       "result": "399 - 16 - 277",
+      "isHoliday": false
+    },
+    {
+      "marketName": "ARAMBH DAY",
+      "date": "19-10-2026",
+      "result": "456 - 57 - 278",
+      "isHoliday": false
+    },
+    {
+      "marketName": "ARAMBH DAY",
+      "date": "20-10-2026",
+      "result": "226 - 07 - 179",
       "isHoliday": false
     }
   ]
