@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "10\/22\/2026, 7:03:12 AM",
+  "last_updated": "10\/22\/2026, 7:04:22 AM",
   "markets": [
     "SRIDEVI",
     "TIME BAZAR",
@@ -3397,108 +3397,6 @@
       "isHoliday": false
     },
     {
-      "marketName": "MADHUR DAY",
-      "date": "01-10-2026",
-      "result": "245 - 14 - 239",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "02-10-2026",
-      "result": "300 - 33 - 599",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "03-10-2026",
-      "result": "300 - 33 - 599",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "04-10-2026",
-      "result": "680 - 40 - 460",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "05-10-2026",
-      "result": "256 - 30 - 488",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "07-10-2026",
-      "result": "130 - 46 - 150",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "09-10-2026",
-      "result": "449 - 78 - 468",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "08-10-2026",
-      "result": "369 - 89 - 270",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "10-10-2026",
-      "result": "270 - 95 - 168",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "11-10-2026",
-      "result": "189 - 84 - 149",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "12-10-2026",
-      "result": "126 - 92 - 228",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "13-10-2026",
-      "result": "478 - 96 - 358",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "14-10-2026",
-      "result": "150 - 60 - 389",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "15-10-2026",
-      "result": "188 - 74 - 680",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "16-10-2026",
-      "result": "136 - 05 - 357",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "17-10-2026",
-      "result": "790 - 60 - 118",
-      "isHoliday": false
-    },
-    {
-      "marketName": "MADHUR DAY",
-      "date": "18-10-2026",
-      "result": "347 - 49 - 234",
-      "isHoliday": false
-    },
-    {
       "marketName": "SRIDEVI",
       "date": "20-01-2026",
       "result": "158 - 45 - 177",
@@ -6866,6 +6764,120 @@
     },
     {
       "marketName": "MADHUR NIGHT",
+      "date": "20-10-2026",
+      "result": "136 - 05 - 230",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "01-10-2026",
+      "result": "245 - 14 - 239",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "02-10-2026",
+      "result": "300 - 33 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "03-10-2026",
+      "result": "300 - 33 - 599",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "04-10-2026",
+      "result": "680 - 40 - 460",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "05-10-2026",
+      "result": "256 - 30 - 488",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "07-10-2026",
+      "result": "130 - 46 - 150",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "09-10-2026",
+      "result": "449 - 78 - 468",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "08-10-2026",
+      "result": "369 - 89 - 270",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "10-10-2026",
+      "result": "270 - 95 - 168",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "11-10-2026",
+      "result": "189 - 84 - 149",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "12-10-2026",
+      "result": "126 - 92 - 228",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "13-10-2026",
+      "result": "478 - 96 - 358",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "14-10-2026",
+      "result": "150 - 60 - 389",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "15-10-2026",
+      "result": "188 - 74 - 680",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "16-10-2026",
+      "result": "136 - 05 - 357",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "17-10-2026",
+      "result": "790 - 60 - 118",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "18-10-2026",
+      "result": "347 - 49 - 234",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
+      "date": "19-10-2026",
+      "result": "259 - 63 - 256",
+      "isHoliday": false
+    },
+    {
+      "marketName": "MADHUR DAY",
       "date": "20-10-2026",
       "result": "136 - 05 - 230",
       "isHoliday": false
