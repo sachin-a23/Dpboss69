@@ -3853,141 +3853,6 @@
       "isHoliday": false
     }
   ],
-  "MADHUR DAY": [
-    {
-      "date": "01-10-2026",
-      "open": "245",
-      "jodi": "14",
-      "close": "239",
-      "isHoliday": false
-    },
-    {
-      "date": "02-10-2026",
-      "open": "300",
-      "jodi": "33",
-      "close": "599",
-      "isHoliday": false
-    },
-    {
-      "date": "03-10-2026",
-      "open": "300",
-      "jodi": "33",
-      "close": "599",
-      "isHoliday": false
-    },
-    {
-      "date": "04-10-2026",
-      "open": "680",
-      "jodi": "40",
-      "close": "460",
-      "isHoliday": false
-    },
-    {
-      "date": "05-10-2026",
-      "open": "256",
-      "jodi": "30",
-      "close": "488",
-      "isHoliday": false
-    },
-    {
-      "date": "07-10-2026",
-      "open": "130",
-      "jodi": "46",
-      "close": "150",
-      "isHoliday": false
-    },
-    {
-      "date": "08-10-2026",
-      "open": "369",
-      "jodi": "89",
-      "close": "270",
-      "isHoliday": false
-    },
-    {
-      "date": "09-10-2026",
-      "open": "449",
-      "jodi": "78",
-      "close": "468",
-      "isHoliday": false
-    },
-    {
-      "date": "10-10-2026",
-      "open": "270",
-      "jodi": "95",
-      "close": "168",
-      "isHoliday": false
-    },
-    {
-      "date": "11-10-2026",
-      "open": "189",
-      "jodi": "84",
-      "close": "149",
-      "isHoliday": false
-    },
-    {
-      "date": "12-10-2026",
-      "open": "126",
-      "jodi": "92",
-      "close": "228",
-      "isHoliday": false
-    },
-    {
-      "date": "13-10-2026",
-      "open": "478",
-      "jodi": "96",
-      "close": "358",
-      "isHoliday": false
-    },
-    {
-      "date": "14-10-2026",
-      "open": "150",
-      "jodi": "60",
-      "close": "389",
-      "isHoliday": false
-    },
-    {
-      "date": "15-10-2026",
-      "open": "188",
-      "jodi": "74",
-      "close": "680",
-      "isHoliday": false
-    },
-    {
-      "date": "16-10-2026",
-      "open": "136",
-      "jodi": "05",
-      "close": "357",
-      "isHoliday": false
-    },
-    {
-      "date": "17-10-2026",
-      "open": "790",
-      "jodi": "60",
-      "close": "118",
-      "isHoliday": false
-    },
-    {
-      "date": "18-10-2026",
-      "open": "347",
-      "jodi": "49",
-      "close": "234",
-      "isHoliday": false
-    },
-    {
-      "date": "19-10-2026",
-      "open": "259",
-      "jodi": "63",
-      "close": "256",
-      "isHoliday": false
-    },
-    {
-      "date": "20-10-2026",
-      "open": "136",
-      "jodi": "05",
-      "close": "230",
-      "isHoliday": false
-    }
-  ],
   "MILAN DAY": [
     {
       "date": "20-01-2026",
@@ -5898,6 +5763,148 @@
       "open": "477",
       "jodi": "86",
       "close": "600",
+      "isHoliday": false
+    },
+    {
+      "date": "21-10-2026",
+      "open": "669",
+      "jodi": "12",
+      "close": "660",
+      "isHoliday": false
+    }
+  ],
+  "MADHUR DAY": [
+    {
+      "date": "01-10-2026",
+      "open": "245",
+      "jodi": "14",
+      "close": "239",
+      "isHoliday": false
+    },
+    {
+      "date": "02-10-2026",
+      "open": "300",
+      "jodi": "33",
+      "close": "599",
+      "isHoliday": false
+    },
+    {
+      "date": "03-10-2026",
+      "open": "300",
+      "jodi": "33",
+      "close": "599",
+      "isHoliday": false
+    },
+    {
+      "date": "04-10-2026",
+      "open": "680",
+      "jodi": "40",
+      "close": "460",
+      "isHoliday": false
+    },
+    {
+      "date": "05-10-2026",
+      "open": "256",
+      "jodi": "30",
+      "close": "488",
+      "isHoliday": false
+    },
+    {
+      "date": "07-10-2026",
+      "open": "130",
+      "jodi": "46",
+      "close": "150",
+      "isHoliday": false
+    },
+    {
+      "date": "08-10-2026",
+      "open": "369",
+      "jodi": "89",
+      "close": "270",
+      "isHoliday": false
+    },
+    {
+      "date": "09-10-2026",
+      "open": "449",
+      "jodi": "78",
+      "close": "468",
+      "isHoliday": false
+    },
+    {
+      "date": "10-10-2026",
+      "open": "270",
+      "jodi": "95",
+      "close": "168",
+      "isHoliday": false
+    },
+    {
+      "date": "11-10-2026",
+      "open": "189",
+      "jodi": "84",
+      "close": "149",
+      "isHoliday": false
+    },
+    {
+      "date": "12-10-2026",
+      "open": "126",
+      "jodi": "92",
+      "close": "228",
+      "isHoliday": false
+    },
+    {
+      "date": "13-10-2026",
+      "open": "478",
+      "jodi": "96",
+      "close": "358",
+      "isHoliday": false
+    },
+    {
+      "date": "14-10-2026",
+      "open": "150",
+      "jodi": "60",
+      "close": "389",
+      "isHoliday": false
+    },
+    {
+      "date": "15-10-2026",
+      "open": "188",
+      "jodi": "74",
+      "close": "680",
+      "isHoliday": false
+    },
+    {
+      "date": "16-10-2026",
+      "open": "136",
+      "jodi": "05",
+      "close": "357",
+      "isHoliday": false
+    },
+    {
+      "date": "17-10-2026",
+      "open": "790",
+      "jodi": "60",
+      "close": "118",
+      "isHoliday": false
+    },
+    {
+      "date": "18-10-2026",
+      "open": "347",
+      "jodi": "49",
+      "close": "234",
+      "isHoliday": false
+    },
+    {
+      "date": "19-10-2026",
+      "open": "259",
+      "jodi": "63",
+      "close": "256",
+      "isHoliday": false
+    },
+    {
+      "date": "20-10-2026",
+      "open": "136",
+      "jodi": "05",
+      "close": "230",
       "isHoliday": false
     }
   ],
