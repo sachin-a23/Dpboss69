@@ -1,4 +1,1938 @@
 {
+  "SRIDEVI": [
+    {
+      "date": "05-03-2025",
+      "open": "150",
+      "jodi": "65",
+      "close": "168",
+      "isHoliday": false
+    },
+    {
+      "date": "06-03-2025",
+      "open": "380",
+      "jodi": "14",
+      "close": "239",
+      "isHoliday": false
+    },
+    {
+      "date": "07-03-2025",
+      "open": "169",
+      "jodi": "62",
+      "close": "156",
+      "isHoliday": false
+    },
+    {
+      "date": "20-01-2026",
+      "open": "158",
+      "jodi": "45",
+      "close": "177",
+      "isHoliday": false
+    },
+    {
+      "date": "21-01-2026",
+      "open": "146",
+      "jodi": "11",
+      "close": "335",
+      "isHoliday": false
+    },
+    {
+      "date": "22-01-2026",
+      "open": "358",
+      "jodi": "61",
+      "close": "137",
+      "isHoliday": false
+    },
+    {
+      "date": "23-01-2026",
+      "open": "259",
+      "jodi": "61",
+      "close": "380",
+      "isHoliday": false
+    },
+    {
+      "date": "24-01-2026",
+      "open": "356",
+      "jodi": "43",
+      "close": "139",
+      "isHoliday": false
+    },
+    {
+      "date": "25-01-2026",
+      "open": "149",
+      "jodi": "48",
+      "close": "170",
+      "isHoliday": false
+    },
+    {
+      "date": "26-01-2026",
+      "open": "***",
+      "jodi": "**",
+      "close": "***",
+      "isHoliday": true
+    },
+    {
+      "date": "27-01-2026",
+      "open": "567",
+      "jodi": "85",
+      "close": "249",
+      "isHoliday": false
+    },
+    {
+      "date": "28-01-2026",
+      "open": "490",
+      "jodi": "36",
+      "close": "899",
+      "isHoliday": false
+    },
+    {
+      "date": "29-01-2026",
+      "open": "130",
+      "jodi": "43",
+      "close": "788",
+      "isHoliday": false
+    },
+    {
+      "date": "30-01-2026",
+      "open": "789",
+      "jodi": "45",
+      "close": "357",
+      "isHoliday": false
+    },
+    {
+      "date": "31-01-2026",
+      "open": "126",
+      "jodi": "90",
+      "close": "569",
+      "isHoliday": false
+    },
+    {
+      "date": "01-02-2026",
+      "open": "577",
+      "jodi": "96",
+      "close": "268",
+      "isHoliday": false
+    },
+    {
+      "date": "02-02-2026",
+      "open": "***",
+      "jodi": "**",
+      "close": "***",
+      "isHoliday": true
+    },
+    {
+      "date": "03-02-2026",
+      "open": "440",
+      "jodi": "88",
+      "close": "567",
+      "isHoliday": false
+    },
+    {
+      "date": "04-02-2026",
+      "open": "356",
+      "jodi": "45",
+      "close": "140",
+      "isHoliday": false
+    },
+    {
+      "date": "05-02-2026",
+      "open": "349",
+      "jodi": "66",
+      "close": "123",
+      "isHoliday": false
+    },
+    {
+      "date": "06-02-2026",
+      "open": "388",
+      "jodi": "90",
+      "close": "280",
+      "isHoliday": false
+    },
+    {
+      "date": "07-02-2026",
+      "open": "149",
+      "jodi": "41",
+      "close": "489",
+      "isHoliday": false
+    },
+    {
+      "date": "08-02-2026",
+      "open": "134",
+      "jodi": "83",
+      "close": "247",
+      "isHoliday": false
+    },
+    {
+      "date": "09-02-2026",
+      "open": "268",
+      "jodi": "63",
+      "close": "670",
+      "isHoliday": false
+    },
+    {
+      "date": "10-02-2026",
+      "open": "889",
+      "jodi": "63",
+      "close": "157",
+      "isHoliday": false
+    },
+    {
+      "date": "11-02-2026",
+      "open": "380",
+      "jodi": "14",
+      "close": "400",
+      "isHoliday": false
+    },
+    {
+      "date": "12-02-2026",
+      "open": "188",
+      "jodi": "73",
+      "close": "670",
+      "isHoliday": false
+    },
+    {
+      "date": "13-02-2026",
+      "open": "778",
+      "jodi": "21",
+      "close": "155",
+      "isHoliday": false
+    },
+    {
+      "date": "14-02-2026",
+      "open": "688",
+      "jodi": "21",
+      "close": "380",
+      "isHoliday": false
+    },
+    {
+      "date": "15-02-2026",
+      "open": "348",
+      "jodi": "58",
+      "close": "378",
+      "isHoliday": false
+    },
+    {
+      "date": "16-02-2026",
+      "open": "340",
+      "jodi": "74",
+      "close": "455",
+      "isHoliday": false
+    },
+    {
+      "date": "17-02-2026",
+      "open": "668",
+      "jodi": "07",
+      "close": "133",
+      "isHoliday": false
+    },
+    {
+      "date": "18-02-2026",
+      "open": "569",
+      "jodi": "09",
+      "close": "577",
+      "isHoliday": false
+    },
+    {
+      "date": "19-02-2026",
+      "open": "660",
+      "jodi": "25",
+      "close": "690",
+      "isHoliday": false
+    },
+    {
+      "date": "20-02-2026",
+      "open": "478",
+      "jodi": "92",
+      "close": "679",
+      "isHoliday": false
+    },
+    {
+      "date": "21-02-2026",
+      "open": "558",
+      "jodi": "87",
+      "close": "458",
+      "isHoliday": false
+    },
+    {
+      "date": "22-02-2026",
+      "open": "356",
+      "jodi": "42",
+      "close": "129",
+      "isHoliday": false
+    },
+    {
+      "date": "23-02-2026",
+      "open": "359",
+      "jodi": "72",
+      "close": "679",
+      "isHoliday": false
+    },
+    {
+      "date": "24-02-2026",
+      "open": "146",
+      "jodi": "13",
+      "close": "256",
+      "isHoliday": false
+    },
+    {
+      "date": "25-02-2026",
+      "open": "389",
+      "jodi": "04",
+      "close": "680",
+      "isHoliday": false
+    },
+    {
+      "date": "26-02-2026",
+      "open": "258",
+      "jodi": "58",
+      "close": "170",
+      "isHoliday": false
+    },
+    {
+      "date": "27-02-2026",
+      "open": "180",
+      "jodi": "99",
+      "close": "360",
+      "isHoliday": false
+    },
+    {
+      "date": "28-02-2026",
+      "open": "145",
+      "jodi": "07",
+      "close": "160",
+      "isHoliday": false
+    },
+    {
+      "date": "01-03-2026",
+      "open": "230",
+      "jodi": "56",
+      "close": "349",
+      "isHoliday": false
+    },
+    {
+      "date": "02-03-2026",
+      "open": "167",
+      "jodi": "49",
+      "close": "234",
+      "isHoliday": false
+    },
+    {
+      "date": "03-03-2026",
+      "open": "125",
+      "jodi": "84",
+      "close": "770",
+      "isHoliday": false
+    },
+    {
+      "date": "04-03-2026",
+      "open": "***",
+      "jodi": "**",
+      "close": "***",
+      "isHoliday": true
+    },
+    {
+      "date": "08-03-2026",
+      "open": "130",
+      "jodi": "42",
+      "close": "246",
+      "isHoliday": false
+    },
+    {
+      "date": "09-03-2026",
+      "open": "457",
+      "jodi": "60",
+      "close": "578",
+      "isHoliday": false
+    },
+    {
+      "date": "10-03-2026",
+      "open": "180",
+      "jodi": "90",
+      "close": "389",
+      "isHoliday": false
+    },
+    {
+      "date": "11-03-2026",
+      "open": "378",
+      "jodi": "89",
+      "close": "126",
+      "isHoliday": false
+    },
+    {
+      "date": "12-03-2026",
+      "open": "138",
+      "jodi": "24",
+      "close": "167",
+      "isHoliday": false
+    },
+    {
+      "date": "13-03-2026",
+      "open": "459",
+      "jodi": "88",
+      "close": "350",
+      "isHoliday": false
+    },
+    {
+      "date": "14-03-2026",
+      "open": "279",
+      "jodi": "89",
+      "close": "450",
+      "isHoliday": false
+    },
+    {
+      "date": "15-03-2026",
+      "open": "150",
+      "jodi": "62",
+      "close": "390",
+      "isHoliday": false
+    },
+    {
+      "date": "16-03-2026",
+      "open": "480",
+      "jodi": "23",
+      "close": "490",
+      "isHoliday": false
+    },
+    {
+      "date": "17-03-2026",
+      "open": "156",
+      "jodi": "25",
+      "close": "267",
+      "isHoliday": false
+    },
+    {
+      "date": "18-03-2026",
+      "open": "348",
+      "jodi": "56",
+      "close": "457",
+      "isHoliday": false
+    },
+    {
+      "date": "19-03-2026",
+      "open": "780",
+      "jodi": "59",
+      "close": "568",
+      "isHoliday": false
+    },
+    {
+      "date": "20-03-2026",
+      "open": "557",
+      "jodi": "71",
+      "close": "489",
+      "isHoliday": false
+    },
+    {
+      "date": "21-03-2026",
+      "open": "578",
+      "jodi": "04",
+      "close": "266",
+      "isHoliday": false
+    },
+    {
+      "date": "22-03-2026",
+      "open": "145",
+      "jodi": "09",
+      "close": "568",
+      "isHoliday": false
+    },
+    {
+      "date": "23-03-2026",
+      "open": "138",
+      "jodi": "23",
+      "close": "445",
+      "isHoliday": false
+    },
+    {
+      "date": "24-03-2026",
+      "open": "118",
+      "jodi": "03",
+      "close": "689",
+      "isHoliday": false
+    },
+    {
+      "date": "25-03-2026",
+      "open": "778",
+      "jodi": "21",
+      "close": "100",
+      "isHoliday": false
+    },
+    {
+      "date": "26-03-2026",
+      "open": "480",
+      "jodi": "23",
+      "close": "490",
+      "isHoliday": false
+    },
+    {
+      "date": "27-03-2026",
+      "open": "170",
+      "jodi": "87",
+      "close": "368",
+      "isHoliday": false
+    },
+    {
+      "date": "28-03-2026",
+      "open": "800",
+      "jodi": "86",
+      "close": "358",
+      "isHoliday": false
+    },
+    {
+      "date": "29-03-2026",
+      "open": "126",
+      "jodi": "97",
+      "close": "890",
+      "isHoliday": false
+    },
+    {
+      "date": "30-03-2026",
+      "open": "558",
+      "jodi": "86",
+      "close": "600",
+      "isHoliday": false
+    },
+    {
+      "date": "31-03-2026",
+      "open": "147",
+      "jodi": "20",
+      "close": "370",
+      "isHoliday": false
+    },
+    {
+      "date": "01-04-2026",
+      "open": "149",
+      "jodi": "04",
+      "close": "145",
+      "isHoliday": false
+    },
+    {
+      "date": "02-04-2026",
+      "open": "289",
+      "jodi": "93",
+      "close": "247",
+      "isHoliday": false
+    },
+    {
+      "date": "03-04-2026",
+      "open": "348",
+      "jodi": "54",
+      "close": "158",
+      "isHoliday": false
+    },
+    {
+      "date": "04-04-2026",
+      "open": "578",
+      "jodi": "09",
+      "close": "117",
+      "isHoliday": false
+    },
+    {
+      "date": "05-04-2026",
+      "open": "113",
+      "jodi": "57",
+      "close": "179",
+      "isHoliday": false
+    },
+    {
+      "date": "06-04-2026",
+      "open": "299",
+      "jodi": "03",
+      "close": "355",
+      "isHoliday": false
+    },
+    {
+      "date": "07-04-2026",
+      "open": "279",
+      "jodi": "88",
+      "close": "260",
+      "isHoliday": false
+    },
+    {
+      "date": "08-04-2026",
+      "open": "158",
+      "jodi": "47",
+      "close": "223",
+      "isHoliday": false
+    },
+    {
+      "date": "09-04-2026",
+      "open": "900",
+      "jodi": "91",
+      "close": "399",
+      "isHoliday": false
+    },
+    {
+      "date": "10-04-2026",
+      "open": "470",
+      "jodi": "19",
+      "close": "225",
+      "isHoliday": false
+    },
+    {
+      "date": "11-04-2026",
+      "open": "238",
+      "jodi": "32",
+      "close": "679",
+      "isHoliday": false
+    },
+    {
+      "date": "12-04-2026",
+      "open": "358",
+      "jodi": "67",
+      "close": "124",
+      "isHoliday": false
+    },
+    {
+      "date": "13-04-2026",
+      "open": "367",
+      "jodi": "60",
+      "close": "479",
+      "isHoliday": false
+    },
+    {
+      "date": "14-04-2026",
+      "open": "790",
+      "jodi": "66",
+      "close": "169",
+      "isHoliday": false
+    },
+    {
+      "date": "15-04-2026",
+      "open": "140",
+      "jodi": "55",
+      "close": "168",
+      "isHoliday": false
+    },
+    {
+      "date": "16-04-2026",
+      "open": "568",
+      "jodi": "98",
+      "close": "567",
+      "isHoliday": false
+    },
+    {
+      "date": "17-04-2026",
+      "open": "256",
+      "jodi": "33",
+      "close": "346",
+      "isHoliday": false
+    },
+    {
+      "date": "18-04-2026",
+      "open": "567",
+      "jodi": "81",
+      "close": "777",
+      "isHoliday": false
+    },
+    {
+      "date": "19-04-2026",
+      "open": "157",
+      "jodi": "39",
+      "close": "126",
+      "isHoliday": false
+    },
+    {
+      "date": "20-04-2026",
+      "open": "178",
+      "jodi": "66",
+      "close": "259",
+      "isHoliday": false
+    },
+    {
+      "date": "21-04-2026",
+      "open": "138",
+      "jodi": "21",
+      "close": "290",
+      "isHoliday": false
+    },
+    {
+      "date": "22-04-2026",
+      "open": "234",
+      "jodi": "97",
+      "close": "188",
+      "isHoliday": false
+    },
+    {
+      "date": "23-04-2026",
+      "open": "490",
+      "jodi": "39",
+      "close": "270",
+      "isHoliday": false
+    },
+    {
+      "date": "24-04-2026",
+      "open": "455",
+      "jodi": "41",
+      "close": "470",
+      "isHoliday": false
+    },
+    {
+      "date": "25-04-2026",
+      "open": "338",
+      "jodi": "41",
+      "close": "560",
+      "isHoliday": false
+    },
+    {
+      "date": "26-04-2026",
+      "open": "458",
+      "jodi": "75",
+      "close": "690",
+      "isHoliday": false
+    },
+    {
+      "date": "27-04-2026",
+      "open": "157",
+      "jodi": "37",
+      "close": "359",
+      "isHoliday": false
+    },
+    {
+      "date": "28-04-2026",
+      "open": "459",
+      "jodi": "80",
+      "close": "244",
+      "isHoliday": false
+    },
+    {
+      "date": "29-04-2026",
+      "open": "224",
+      "jodi": "81",
+      "close": "669",
+      "isHoliday": false
+    },
+    {
+      "date": "30-04-2026",
+      "open": "466",
+      "jodi": "65",
+      "close": "366",
+      "isHoliday": false
+    },
+    {
+      "date": "01-05-2026",
+      "open": "130",
+      "jodi": "49",
+      "close": "234",
+      "isHoliday": false
+    },
+    {
+      "date": "02-05-2026",
+      "open": "248",
+      "jodi": "47",
+      "close": "278",
+      "isHoliday": false
+    },
+    {
+      "date": "03-05-2026",
+      "open": "670",
+      "jodi": "37",
+      "close": "359",
+      "isHoliday": false
+    },
+    {
+      "date": "04-05-2026",
+      "open": "160",
+      "jodi": "71",
+      "close": "335",
+      "isHoliday": false
+    },
+    {
+      "date": "05-05-2026",
+      "open": "255",
+      "jodi": "29",
+      "close": "577",
+      "isHoliday": false
+    },
+    {
+      "date": "06-05-2026",
+      "open": "469",
+      "jodi": "94",
+      "close": "158",
+      "isHoliday": false
+    },
+    {
+      "date": "07-05-2026",
+      "open": "112",
+      "jodi": "40",
+      "close": "488",
+      "isHoliday": false
+    },
+    {
+      "date": "08-05-2026",
+      "open": "177",
+      "jodi": "51",
+      "close": "146",
+      "isHoliday": false
+    },
+    {
+      "date": "09-05-2026",
+      "open": "228",
+      "jodi": "21",
+      "close": "669",
+      "isHoliday": false
+    },
+    {
+      "date": "10-05-2026",
+      "open": "689",
+      "jodi": "38",
+      "close": "468",
+      "isHoliday": false
+    },
+    {
+      "date": "11-05-2026",
+      "open": "247",
+      "jodi": "31",
+      "close": "579",
+      "isHoliday": false
+    },
+    {
+      "date": "12-05-2026",
+      "open": "490",
+      "jodi": "35",
+      "close": "357",
+      "isHoliday": false
+    },
+    {
+      "date": "13-05-2026",
+      "open": "660",
+      "jodi": "25",
+      "close": "177",
+      "isHoliday": false
+    },
+    {
+      "date": "14-05-2026",
+      "open": "300",
+      "jodi": "39",
+      "close": "117",
+      "isHoliday": false
+    },
+    {
+      "date": "15-05-2026",
+      "open": "179",
+      "jodi": "70",
+      "close": "578",
+      "isHoliday": false
+    },
+    {
+      "date": "16-05-2026",
+      "open": "690",
+      "jodi": "50",
+      "close": "190",
+      "isHoliday": false
+    },
+    {
+      "date": "17-05-2026",
+      "open": "340",
+      "jodi": "73",
+      "close": "779",
+      "isHoliday": false
+    },
+    {
+      "date": "18-05-2026",
+      "open": "338",
+      "jodi": "40",
+      "close": "488",
+      "isHoliday": false
+    },
+    {
+      "date": "19-05-2026",
+      "open": "670",
+      "jodi": "38",
+      "close": "369",
+      "isHoliday": false
+    },
+    {
+      "date": "20-05-2026",
+      "open": "355",
+      "jodi": "38",
+      "close": "189",
+      "isHoliday": false
+    },
+    {
+      "date": "21-05-2026",
+      "open": "799",
+      "jodi": "55",
+      "close": "690",
+      "isHoliday": false
+    },
+    {
+      "date": "22-05-2026",
+      "open": "148",
+      "jodi": "31",
+      "close": "155",
+      "isHoliday": false
+    },
+    {
+      "date": "23-05-2026",
+      "open": "880",
+      "jodi": "64",
+      "close": "239",
+      "isHoliday": false
+    },
+    {
+      "date": "24-05-2026",
+      "open": "890",
+      "jodi": "78",
+      "close": "369",
+      "isHoliday": false
+    },
+    {
+      "date": "25-05-2026",
+      "open": "679",
+      "jodi": "27",
+      "close": "449",
+      "isHoliday": false
+    },
+    {
+      "date": "26-05-2026",
+      "open": "567",
+      "jodi": "87",
+      "close": "458",
+      "isHoliday": false
+    },
+    {
+      "date": "27-05-2026",
+      "open": "899",
+      "jodi": "68",
+      "close": "260",
+      "isHoliday": false
+    },
+    {
+      "date": "28-05-2026",
+      "open": "134",
+      "jodi": "85",
+      "close": "456",
+      "isHoliday": false
+    },
+    {
+      "date": "29-05-2026",
+      "open": "367",
+      "jodi": "64",
+      "close": "239",
+      "isHoliday": false
+    },
+    {
+      "date": "30-05-2026",
+      "open": "357",
+      "jodi": "56",
+      "close": "178",
+      "isHoliday": false
+    },
+    {
+      "date": "31-05-2026",
+      "open": "240",
+      "jodi": "60",
+      "close": "280",
+      "isHoliday": false
+    },
+    {
+      "date": "01-06-2026",
+      "open": "124",
+      "jodi": "78",
+      "close": "288",
+      "isHoliday": false
+    },
+    {
+      "date": "02-06-2026",
+      "open": "179",
+      "jodi": "70",
+      "close": "136",
+      "isHoliday": false
+    },
+    {
+      "date": "03-06-2026",
+      "open": "369",
+      "jodi": "82",
+      "close": "660",
+      "isHoliday": false
+    },
+    {
+      "date": "04-06-2026",
+      "open": "244",
+      "jodi": "09",
+      "close": "135",
+      "isHoliday": false
+    },
+    {
+      "date": "05-06-2026",
+      "open": "788",
+      "jodi": "32",
+      "close": "660",
+      "isHoliday": false
+    },
+    {
+      "date": "06-06-2026",
+      "open": "667",
+      "jodi": "98",
+      "close": "558",
+      "isHoliday": false
+    },
+    {
+      "date": "07-06-2026",
+      "open": "236",
+      "jodi": "19",
+      "close": "450",
+      "isHoliday": false
+    },
+    {
+      "date": "08-06-2026",
+      "open": "499",
+      "jodi": "25",
+      "close": "230",
+      "isHoliday": false
+    },
+    {
+      "date": "09-06-2026",
+      "open": "266",
+      "jodi": "40",
+      "close": "569",
+      "isHoliday": false
+    },
+    {
+      "date": "10-06-2026",
+      "open": "688",
+      "jodi": "29",
+      "close": "117",
+      "isHoliday": false
+    },
+    {
+      "date": "11-06-2026",
+      "open": "260",
+      "jodi": "81",
+      "close": "236",
+      "isHoliday": false
+    },
+    {
+      "date": "12-06-2026",
+      "open": "158",
+      "jodi": "45",
+      "close": "159",
+      "isHoliday": false
+    },
+    {
+      "date": "13-06-2026",
+      "open": "249",
+      "jodi": "54",
+      "close": "167",
+      "isHoliday": false
+    },
+    {
+      "date": "14-06-2026",
+      "open": "239",
+      "jodi": "42",
+      "close": "679",
+      "isHoliday": false
+    },
+    {
+      "date": "15-06-2026",
+      "open": "237",
+      "jodi": "23",
+      "close": "689",
+      "isHoliday": false
+    },
+    {
+      "date": "16-06-2026",
+      "open": "479",
+      "jodi": "01",
+      "close": "344",
+      "isHoliday": false
+    },
+    {
+      "date": "17-06-2026",
+      "open": "370",
+      "jodi": "02",
+      "close": "778",
+      "isHoliday": false
+    },
+    {
+      "date": "18-06-2026",
+      "open": "259",
+      "jodi": "68",
+      "close": "990",
+      "isHoliday": false
+    },
+    {
+      "date": "19-06-2026",
+      "open": "114",
+      "jodi": "62",
+      "close": "390",
+      "isHoliday": false
+    },
+    {
+      "date": "20-06-2026",
+      "open": "389",
+      "jodi": "07",
+      "close": "467",
+      "isHoliday": false
+    },
+    {
+      "date": "21-06-2026",
+      "open": "360",
+      "jodi": "94",
+      "close": "590",
+      "isHoliday": false
+    },
+    {
+      "date": "22-06-2026",
+      "open": "168",
+      "jodi": "56",
+      "close": "880",
+      "isHoliday": false
+    },
+    {
+      "date": "23-06-2026",
+      "open": "900",
+      "jodi": "94",
+      "close": "257",
+      "isHoliday": false
+    },
+    {
+      "date": "24-06-2026",
+      "open": "677",
+      "jodi": "01",
+      "close": "399",
+      "isHoliday": false
+    },
+    {
+      "date": "25-06-2026",
+      "open": "348",
+      "jodi": "56",
+      "close": "277",
+      "isHoliday": false
+    },
+    {
+      "date": "26-06-2026",
+      "open": "479",
+      "jodi": "02",
+      "close": "570",
+      "isHoliday": false
+    },
+    {
+      "date": "27-06-2026",
+      "open": "470",
+      "jodi": "15",
+      "close": "348",
+      "isHoliday": false
+    },
+    {
+      "date": "28-06-2026",
+      "open": "245",
+      "jodi": "14",
+      "close": "167",
+      "isHoliday": false
+    },
+    {
+      "date": "29-06-2026",
+      "open": "470",
+      "jodi": "18",
+      "close": "369",
+      "isHoliday": false
+    },
+    {
+      "date": "30-06-2026",
+      "open": "340",
+      "jodi": "77",
+      "close": "250",
+      "isHoliday": false
+    },
+    {
+      "date": "01-07-2026",
+      "open": "368",
+      "jodi": "79",
+      "close": "360",
+      "isHoliday": false
+    },
+    {
+      "date": "02-07-2026",
+      "open": "358",
+      "jodi": "66",
+      "close": "150",
+      "isHoliday": false
+    },
+    {
+      "date": "03-07-2026",
+      "open": "239",
+      "jodi": "47",
+      "close": "458",
+      "isHoliday": false
+    },
+    {
+      "date": "04-07-2026",
+      "open": "690",
+      "jodi": "57",
+      "close": "566",
+      "isHoliday": false
+    },
+    {
+      "date": "05-07-2026",
+      "open": "135",
+      "jodi": "90",
+      "close": "569",
+      "isHoliday": false
+    },
+    {
+      "date": "06-07-2026",
+      "open": "378",
+      "jodi": "83",
+      "close": "157",
+      "isHoliday": false
+    },
+    {
+      "date": "07-07-2026",
+      "open": "179",
+      "jodi": "14",
+      "close": "149",
+      "isHoliday": false
+    },
+    {
+      "date": "08-07-2026",
+      "open": "180",
+      "jodi": "99",
+      "close": "568",
+      "isHoliday": false
+    },
+    {
+      "date": "09-07-2026",
+      "open": "469",
+      "jodi": "94",
+      "close": "356",
+      "isHoliday": false
+    },
+    {
+      "date": "10-07-2026",
+      "open": "117",
+      "jodi": "91",
+      "close": "137",
+      "isHoliday": false
+    },
+    {
+      "date": "11-07-2026",
+      "open": "578",
+      "jodi": "05",
+      "close": "140",
+      "isHoliday": false
+    },
+    {
+      "date": "12-07-2026",
+      "open": "580",
+      "jodi": "30",
+      "close": "127",
+      "isHoliday": false
+    },
+    {
+      "date": "13-07-2026",
+      "open": "700",
+      "jodi": "71",
+      "close": "100",
+      "isHoliday": false
+    },
+    {
+      "date": "14-07-2026",
+      "open": "348",
+      "jodi": "56",
+      "close": "123",
+      "isHoliday": false
+    },
+    {
+      "date": "15-07-2026",
+      "open": "289",
+      "jodi": "93",
+      "close": "689",
+      "isHoliday": false
+    },
+    {
+      "date": "16-07-2026",
+      "open": "235",
+      "jodi": "07",
+      "close": "340",
+      "isHoliday": false
+    },
+    {
+      "date": "17-07-2026",
+      "open": "359",
+      "jodi": "74",
+      "close": "257",
+      "isHoliday": false
+    },
+    {
+      "date": "18-07-2026",
+      "open": "347",
+      "jodi": "48",
+      "close": "260",
+      "isHoliday": false
+    },
+    {
+      "date": "19-07-2026",
+      "open": "268",
+      "jodi": "67",
+      "close": "160",
+      "isHoliday": false
+    },
+    {
+      "date": "20-07-2026",
+      "open": "269",
+      "jodi": "76",
+      "close": "790",
+      "isHoliday": false
+    },
+    {
+      "date": "21-07-2026",
+      "open": "268",
+      "jodi": "67",
+      "close": "223",
+      "isHoliday": false
+    },
+    {
+      "date": "22-07-2026",
+      "open": "668",
+      "jodi": "03",
+      "close": "247",
+      "isHoliday": false
+    },
+    {
+      "date": "23-07-2026",
+      "open": "246",
+      "jodi": "22",
+      "close": "679",
+      "isHoliday": false
+    },
+    {
+      "date": "24-07-2026",
+      "open": "256",
+      "jodi": "38",
+      "close": "558",
+      "isHoliday": false
+    },
+    {
+      "date": "25-07-2026",
+      "open": "135",
+      "jodi": "90",
+      "close": "370",
+      "isHoliday": false
+    },
+    {
+      "date": "26-07-2026",
+      "open": "689",
+      "jodi": "33",
+      "close": "157",
+      "isHoliday": false
+    },
+    {
+      "date": "27-07-2026",
+      "open": "469",
+      "jodi": "99",
+      "close": "667",
+      "isHoliday": false
+    },
+    {
+      "date": "28-07-2026",
+      "open": "140",
+      "jodi": "51",
+      "close": "489",
+      "isHoliday": false
+    },
+    {
+      "date": "29-07-2026",
+      "open": "345",
+      "jodi": "27",
+      "close": "359",
+      "isHoliday": false
+    },
+    {
+      "date": "30-07-2026",
+      "open": "126",
+      "jodi": "90",
+      "close": "488",
+      "isHoliday": false
+    },
+    {
+      "date": "31-07-2026",
+      "open": "157",
+      "jodi": "39",
+      "close": "234",
+      "isHoliday": false
+    },
+    {
+      "date": "01-08-2026",
+      "open": "245",
+      "jodi": "16",
+      "close": "367",
+      "isHoliday": false
+    },
+    {
+      "date": "02-08-2026",
+      "open": "389",
+      "jodi": "04",
+      "close": "130",
+      "isHoliday": false
+    },
+    {
+      "date": "03-08-2026",
+      "open": "557",
+      "jodi": "76",
+      "close": "349",
+      "isHoliday": false
+    },
+    {
+      "date": "04-08-2026",
+      "open": "138",
+      "jodi": "29",
+      "close": "667",
+      "isHoliday": false
+    },
+    {
+      "date": "05-08-2026",
+      "open": "278",
+      "jodi": "79",
+      "close": "478",
+      "isHoliday": false
+    },
+    {
+      "date": "06-08-2026",
+      "open": "157",
+      "jodi": "30",
+      "close": "118",
+      "isHoliday": false
+    },
+    {
+      "date": "07-08-2026",
+      "open": "457",
+      "jodi": "66",
+      "close": "178",
+      "isHoliday": false
+    },
+    {
+      "date": "08-08-2026",
+      "open": "137",
+      "jodi": "18",
+      "close": "477",
+      "isHoliday": false
+    },
+    {
+      "date": "09-08-2026",
+      "open": "249",
+      "jodi": "52",
+      "close": "156",
+      "isHoliday": false
+    },
+    {
+      "date": "10-08-2026",
+      "open": "178",
+      "jodi": "61",
+      "close": "399",
+      "isHoliday": false
+    },
+    {
+      "date": "11-08-2026",
+      "open": "459",
+      "jodi": "83",
+      "close": "166",
+      "isHoliday": false
+    },
+    {
+      "date": "12-08-2026",
+      "open": "589",
+      "jodi": "27",
+      "close": "449",
+      "isHoliday": false
+    },
+    {
+      "date": "13-08-2026",
+      "open": "355",
+      "jodi": "32",
+      "close": "228",
+      "isHoliday": false
+    },
+    {
+      "date": "14-08-2026",
+      "open": "780",
+      "jodi": "53",
+      "close": "238",
+      "isHoliday": false
+    },
+    {
+      "date": "15-08-2026",
+      "open": "***",
+      "jodi": "**",
+      "close": "***",
+      "isHoliday": true
+    },
+    {
+      "date": "16-08-2026",
+      "open": "567",
+      "jodi": "84",
+      "close": "590",
+      "isHoliday": false
+    },
+    {
+      "date": "17-08-2026",
+      "open": "466",
+      "jodi": "65",
+      "close": "249",
+      "isHoliday": false
+    },
+    {
+      "date": "18-08-2026",
+      "open": "233",
+      "jodi": "87",
+      "close": "700",
+      "isHoliday": false
+    },
+    {
+      "date": "19-08-2026",
+      "open": "400",
+      "jodi": "49",
+      "close": "360",
+      "isHoliday": false
+    },
+    {
+      "date": "20-08-2026",
+      "open": "380",
+      "jodi": "15",
+      "close": "267",
+      "isHoliday": false
+    },
+    {
+      "date": "21-08-2026",
+      "open": "799",
+      "jodi": "50",
+      "close": "190",
+      "isHoliday": false
+    },
+    {
+      "date": "22-08-2026",
+      "open": "340",
+      "jodi": "70",
+      "close": "127",
+      "isHoliday": false
+    },
+    {
+      "date": "23-08-2026",
+      "open": "458",
+      "jodi": "76",
+      "close": "169",
+      "isHoliday": false
+    },
+    {
+      "date": "24-08-2026",
+      "open": "124",
+      "jodi": "73",
+      "close": "788",
+      "isHoliday": false
+    },
+    {
+      "date": "25-08-2026",
+      "open": "289",
+      "jodi": "90",
+      "close": "569",
+      "isHoliday": false
+    },
+    {
+      "date": "26-08-2026",
+      "open": "448",
+      "jodi": "64",
+      "close": "400",
+      "isHoliday": false
+    },
+    {
+      "date": "27-08-2026",
+      "open": "446",
+      "jodi": "46",
+      "close": "169",
+      "isHoliday": false
+    },
+    {
+      "date": "28-08-2026",
+      "open": "489",
+      "jodi": "19",
+      "close": "225",
+      "isHoliday": false
+    },
+    {
+      "date": "29-08-2026",
+      "open": "577",
+      "jodi": "99",
+      "close": "180",
+      "isHoliday": false
+    },
+    {
+      "date": "30-08-2026",
+      "open": "337",
+      "jodi": "37",
+      "close": "278",
+      "isHoliday": false
+    },
+    {
+      "date": "31-08-2026",
+      "open": "678",
+      "jodi": "11",
+      "close": "137",
+      "isHoliday": false
+    },
+    {
+      "date": "01-09-2026",
+      "open": "570",
+      "jodi": "26",
+      "close": "466",
+      "isHoliday": false
+    },
+    {
+      "date": "02-09-2026",
+      "open": "220",
+      "jodi": "44",
+      "close": "347",
+      "isHoliday": false
+    },
+    {
+      "date": "03-09-2026",
+      "open": "140",
+      "jodi": "52",
+      "close": "499",
+      "isHoliday": false
+    },
+    {
+      "date": "04-09-2026",
+      "open": "169",
+      "jodi": "61",
+      "close": "137",
+      "isHoliday": false
+    },
+    {
+      "date": "05-09-2026",
+      "open": "556",
+      "jodi": "64",
+      "close": "239",
+      "isHoliday": false
+    },
+    {
+      "date": "06-09-2026",
+      "open": "199",
+      "jodi": "92",
+      "close": "390",
+      "isHoliday": false
+    },
+    {
+      "date": "07-09-2026",
+      "open": "269",
+      "jodi": "70",
+      "close": "235",
+      "isHoliday": false
+    },
+    {
+      "date": "08-09-2026",
+      "open": "167",
+      "jodi": "41",
+      "close": "137",
+      "isHoliday": false
+    },
+    {
+      "date": "09-09-2026",
+      "open": "480",
+      "jodi": "22",
+      "close": "246",
+      "isHoliday": false
+    },
+    {
+      "date": "10-09-2026",
+      "open": "589",
+      "jodi": "23",
+      "close": "148",
+      "isHoliday": false
+    },
+    {
+      "date": "11-09-2026",
+      "open": "568",
+      "jodi": "98",
+      "close": "134",
+      "isHoliday": false
+    },
+    {
+      "date": "12-09-2026",
+      "open": "234",
+      "jodi": "94",
+      "close": "257",
+      "isHoliday": false
+    },
+    {
+      "date": "13-09-2026",
+      "open": "225",
+      "jodi": "98",
+      "close": "170",
+      "isHoliday": false
+    },
+    {
+      "date": "14-09-2026",
+      "open": "235",
+      "jodi": "08",
+      "close": "279",
+      "isHoliday": false
+    },
+    {
+      "date": "15-09-2026",
+      "open": "679",
+      "jodi": "28",
+      "close": "125",
+      "isHoliday": false
+    },
+    {
+      "date": "16-09-2026",
+      "open": "556",
+      "jodi": "62",
+      "close": "480",
+      "isHoliday": false
+    },
+    {
+      "date": "17-09-2026",
+      "open": "160",
+      "jodi": "76",
+      "close": "259",
+      "isHoliday": false
+    },
+    {
+      "date": "18-09-2026",
+      "open": "466",
+      "jodi": "63",
+      "close": "157",
+      "isHoliday": false
+    },
+    {
+      "date": "19-09-2026",
+      "open": "560",
+      "jodi": "15",
+      "close": "799",
+      "isHoliday": false
+    },
+    {
+      "date": "20-09-2026",
+      "open": "340",
+      "jodi": "79",
+      "close": "667",
+      "isHoliday": false
+    },
+    {
+      "date": "21-09-2026",
+      "open": "469",
+      "jodi": "96",
+      "close": "123",
+      "isHoliday": false
+    },
+    {
+      "date": "22-09-2026",
+      "open": "490",
+      "jodi": "32",
+      "close": "237",
+      "isHoliday": false
+    },
+    {
+      "date": "23-09-2026",
+      "open": "146",
+      "jodi": "19",
+      "close": "388",
+      "isHoliday": false
+    },
+    {
+      "date": "24-09-2026",
+      "open": "168",
+      "jodi": "58",
+      "close": "260",
+      "isHoliday": false
+    },
+    {
+      "date": "25-09-2026",
+      "open": "458",
+      "jodi": "71",
+      "close": "489",
+      "isHoliday": false
+    },
+    {
+      "date": "26-09-2026",
+      "open": "359",
+      "jodi": "70",
+      "close": "479",
+      "isHoliday": false
+    },
+    {
+      "date": "27-09-2026",
+      "open": "569",
+      "jodi": "06",
+      "close": "178",
+      "isHoliday": false
+    },
+    {
+      "date": "28-09-2026",
+      "open": "370",
+      "jodi": "08",
+      "close": "468",
+      "isHoliday": false
+    },
+    {
+      "date": "29-09-2026",
+      "open": "889",
+      "jodi": "59",
+      "close": "577",
+      "isHoliday": false
+    },
+    {
+      "date": "30-09-2026",
+      "open": "690",
+      "jodi": "57",
+      "close": "467",
+      "isHoliday": false
+    },
+    {
+      "date": "01-10-2026",
+      "open": "390",
+      "jodi": "29",
+      "close": "289",
+      "isHoliday": false
+    },
+    {
+      "date": "02-10-2026",
+      "open": "135",
+      "jodi": "97",
+      "close": "269",
+      "isHoliday": false
+    },
+    {
+      "date": "03-10-2026",
+      "open": "579",
+      "jodi": "15",
+      "close": "366",
+      "isHoliday": false
+    },
+    {
+      "date": "04-10-2026",
+      "open": "239",
+      "jodi": "45",
+      "close": "168",
+      "isHoliday": false
+    },
+    {
+      "date": "05-10-2026",
+      "open": "790",
+      "jodi": "61",
+      "close": "560",
+      "isHoliday": false
+    },
+    {
+      "date": "06-10-2026",
+      "open": "580",
+      "jodi": "39",
+      "close": "135",
+      "isHoliday": false
+    },
+    {
+      "date": "07-10-2026",
+      "open": "134",
+      "jodi": "82",
+      "close": "156",
+      "isHoliday": false
+    },
+    {
+      "date": "08-10-2026",
+      "open": "147",
+      "jodi": "22",
+      "close": "589",
+      "isHoliday": false
+    },
+    {
+      "date": "09-10-2026",
+      "open": "114",
+      "jodi": "63",
+      "close": "355",
+      "isHoliday": false
+    },
+    {
+      "date": "10-10-2026",
+      "open": "778",
+      "jodi": "25",
+      "close": "889",
+      "isHoliday": false
+    },
+    {
+      "date": "11-10-2026",
+      "open": "290",
+      "jodi": "12",
+      "close": "246",
+      "isHoliday": false
+    },
+    {
+      "date": "12-10-2026",
+      "open": "145",
+      "jodi": "04",
+      "close": "356",
+      "isHoliday": false
+    },
+    {
+      "date": "13-10-2026",
+      "open": "240",
+      "jodi": "61",
+      "close": "128",
+      "isHoliday": false
+    },
+    {
+      "date": "14-10-2026",
+      "open": "169",
+      "jodi": "65",
+      "close": "456",
+      "isHoliday": false
+    },
+    {
+      "date": "15-10-2026",
+      "open": "470",
+      "jodi": "16",
+      "close": "268",
+      "isHoliday": false
+    },
+    {
+      "date": "16-10-2026",
+      "open": "360",
+      "jodi": "95",
+      "close": "267",
+      "isHoliday": false
+    },
+    {
+      "date": "17-10-2026",
+      "open": "900",
+      "jodi": "97",
+      "close": "458",
+      "isHoliday": false
+    },
+    {
+      "date": "18-10-2026",
+      "open": "357",
+      "jodi": "54",
+      "close": "167",
+      "isHoliday": false
+    },
+    {
+      "date": "19-10-2026",
+      "open": "378",
+      "jodi": "85",
+      "close": "267",
+      "isHoliday": false
+    },
+    {
+      "date": "20-10-2026",
+      "open": "238",
+      "jodi": "39",
+      "close": "333",
+      "isHoliday": false
+    },
+    {
+      "date": "21-10-2026",
+      "open": "125",
+      "jodi": "89",
+      "close": "478",
+      "isHoliday": false
+    },
+    {
+      "date": "22-10-2026",
+      "open": "678",
+      "jodi": "12",
+      "close": "138",
+      "isHoliday": false
+    }
+  ],
   "KALYAN": [
     {
       "date": "20-01-2026",
@@ -6026,1933 +7960,6 @@
       "open": "139",
       "jodi": "36",
       "close": "349",
-      "isHoliday": false
-    }
-  ],
-  "SRIDEVI": [
-    {
-      "date": "05-03-2025",
-      "open": "150",
-      "jodi": "65",
-      "close": "168",
-      "isHoliday": false
-    },
-    {
-      "date": "06-03-2025",
-      "open": "380",
-      "jodi": "14",
-      "close": "239",
-      "isHoliday": false
-    },
-    {
-      "date": "07-03-2025",
-      "open": "169",
-      "jodi": "62",
-      "close": "156",
-      "isHoliday": false
-    },
-    {
-      "date": "20-01-2026",
-      "open": "158",
-      "jodi": "45",
-      "close": "177",
-      "isHoliday": false
-    },
-    {
-      "date": "21-01-2026",
-      "open": "146",
-      "jodi": "11",
-      "close": "335",
-      "isHoliday": false
-    },
-    {
-      "date": "22-01-2026",
-      "open": "358",
-      "jodi": "61",
-      "close": "137",
-      "isHoliday": false
-    },
-    {
-      "date": "23-01-2026",
-      "open": "259",
-      "jodi": "61",
-      "close": "380",
-      "isHoliday": false
-    },
-    {
-      "date": "24-01-2026",
-      "open": "356",
-      "jodi": "43",
-      "close": "139",
-      "isHoliday": false
-    },
-    {
-      "date": "25-01-2026",
-      "open": "149",
-      "jodi": "48",
-      "close": "170",
-      "isHoliday": false
-    },
-    {
-      "date": "26-01-2026",
-      "open": "***",
-      "jodi": "**",
-      "close": "***",
-      "isHoliday": true
-    },
-    {
-      "date": "27-01-2026",
-      "open": "567",
-      "jodi": "85",
-      "close": "249",
-      "isHoliday": false
-    },
-    {
-      "date": "28-01-2026",
-      "open": "490",
-      "jodi": "36",
-      "close": "899",
-      "isHoliday": false
-    },
-    {
-      "date": "29-01-2026",
-      "open": "130",
-      "jodi": "43",
-      "close": "788",
-      "isHoliday": false
-    },
-    {
-      "date": "30-01-2026",
-      "open": "789",
-      "jodi": "45",
-      "close": "357",
-      "isHoliday": false
-    },
-    {
-      "date": "31-01-2026",
-      "open": "126",
-      "jodi": "90",
-      "close": "569",
-      "isHoliday": false
-    },
-    {
-      "date": "01-02-2026",
-      "open": "577",
-      "jodi": "96",
-      "close": "268",
-      "isHoliday": false
-    },
-    {
-      "date": "02-02-2026",
-      "open": "***",
-      "jodi": "**",
-      "close": "***",
-      "isHoliday": true
-    },
-    {
-      "date": "03-02-2026",
-      "open": "440",
-      "jodi": "88",
-      "close": "567",
-      "isHoliday": false
-    },
-    {
-      "date": "04-02-2026",
-      "open": "356",
-      "jodi": "45",
-      "close": "140",
-      "isHoliday": false
-    },
-    {
-      "date": "05-02-2026",
-      "open": "349",
-      "jodi": "66",
-      "close": "123",
-      "isHoliday": false
-    },
-    {
-      "date": "06-02-2026",
-      "open": "388",
-      "jodi": "90",
-      "close": "280",
-      "isHoliday": false
-    },
-    {
-      "date": "07-02-2026",
-      "open": "149",
-      "jodi": "41",
-      "close": "489",
-      "isHoliday": false
-    },
-    {
-      "date": "08-02-2026",
-      "open": "134",
-      "jodi": "83",
-      "close": "247",
-      "isHoliday": false
-    },
-    {
-      "date": "09-02-2026",
-      "open": "268",
-      "jodi": "63",
-      "close": "670",
-      "isHoliday": false
-    },
-    {
-      "date": "10-02-2026",
-      "open": "889",
-      "jodi": "63",
-      "close": "157",
-      "isHoliday": false
-    },
-    {
-      "date": "11-02-2026",
-      "open": "380",
-      "jodi": "14",
-      "close": "400",
-      "isHoliday": false
-    },
-    {
-      "date": "12-02-2026",
-      "open": "188",
-      "jodi": "73",
-      "close": "670",
-      "isHoliday": false
-    },
-    {
-      "date": "13-02-2026",
-      "open": "778",
-      "jodi": "21",
-      "close": "155",
-      "isHoliday": false
-    },
-    {
-      "date": "14-02-2026",
-      "open": "688",
-      "jodi": "21",
-      "close": "380",
-      "isHoliday": false
-    },
-    {
-      "date": "15-02-2026",
-      "open": "348",
-      "jodi": "58",
-      "close": "378",
-      "isHoliday": false
-    },
-    {
-      "date": "16-02-2026",
-      "open": "340",
-      "jodi": "74",
-      "close": "455",
-      "isHoliday": false
-    },
-    {
-      "date": "17-02-2026",
-      "open": "668",
-      "jodi": "07",
-      "close": "133",
-      "isHoliday": false
-    },
-    {
-      "date": "18-02-2026",
-      "open": "569",
-      "jodi": "09",
-      "close": "577",
-      "isHoliday": false
-    },
-    {
-      "date": "19-02-2026",
-      "open": "660",
-      "jodi": "25",
-      "close": "690",
-      "isHoliday": false
-    },
-    {
-      "date": "20-02-2026",
-      "open": "478",
-      "jodi": "92",
-      "close": "679",
-      "isHoliday": false
-    },
-    {
-      "date": "21-02-2026",
-      "open": "558",
-      "jodi": "87",
-      "close": "458",
-      "isHoliday": false
-    },
-    {
-      "date": "22-02-2026",
-      "open": "356",
-      "jodi": "42",
-      "close": "129",
-      "isHoliday": false
-    },
-    {
-      "date": "23-02-2026",
-      "open": "359",
-      "jodi": "72",
-      "close": "679",
-      "isHoliday": false
-    },
-    {
-      "date": "24-02-2026",
-      "open": "146",
-      "jodi": "13",
-      "close": "256",
-      "isHoliday": false
-    },
-    {
-      "date": "25-02-2026",
-      "open": "389",
-      "jodi": "04",
-      "close": "680",
-      "isHoliday": false
-    },
-    {
-      "date": "26-02-2026",
-      "open": "258",
-      "jodi": "58",
-      "close": "170",
-      "isHoliday": false
-    },
-    {
-      "date": "27-02-2026",
-      "open": "180",
-      "jodi": "99",
-      "close": "360",
-      "isHoliday": false
-    },
-    {
-      "date": "28-02-2026",
-      "open": "145",
-      "jodi": "07",
-      "close": "160",
-      "isHoliday": false
-    },
-    {
-      "date": "01-03-2026",
-      "open": "230",
-      "jodi": "56",
-      "close": "349",
-      "isHoliday": false
-    },
-    {
-      "date": "02-03-2026",
-      "open": "167",
-      "jodi": "49",
-      "close": "234",
-      "isHoliday": false
-    },
-    {
-      "date": "03-03-2026",
-      "open": "125",
-      "jodi": "84",
-      "close": "770",
-      "isHoliday": false
-    },
-    {
-      "date": "04-03-2026",
-      "open": "***",
-      "jodi": "**",
-      "close": "***",
-      "isHoliday": true
-    },
-    {
-      "date": "08-03-2026",
-      "open": "130",
-      "jodi": "42",
-      "close": "246",
-      "isHoliday": false
-    },
-    {
-      "date": "09-03-2026",
-      "open": "457",
-      "jodi": "60",
-      "close": "578",
-      "isHoliday": false
-    },
-    {
-      "date": "10-03-2026",
-      "open": "180",
-      "jodi": "90",
-      "close": "389",
-      "isHoliday": false
-    },
-    {
-      "date": "11-03-2026",
-      "open": "378",
-      "jodi": "89",
-      "close": "126",
-      "isHoliday": false
-    },
-    {
-      "date": "12-03-2026",
-      "open": "138",
-      "jodi": "24",
-      "close": "167",
-      "isHoliday": false
-    },
-    {
-      "date": "13-03-2026",
-      "open": "459",
-      "jodi": "88",
-      "close": "350",
-      "isHoliday": false
-    },
-    {
-      "date": "14-03-2026",
-      "open": "279",
-      "jodi": "89",
-      "close": "450",
-      "isHoliday": false
-    },
-    {
-      "date": "15-03-2026",
-      "open": "150",
-      "jodi": "62",
-      "close": "390",
-      "isHoliday": false
-    },
-    {
-      "date": "16-03-2026",
-      "open": "480",
-      "jodi": "23",
-      "close": "490",
-      "isHoliday": false
-    },
-    {
-      "date": "17-03-2026",
-      "open": "156",
-      "jodi": "25",
-      "close": "267",
-      "isHoliday": false
-    },
-    {
-      "date": "18-03-2026",
-      "open": "348",
-      "jodi": "56",
-      "close": "457",
-      "isHoliday": false
-    },
-    {
-      "date": "19-03-2026",
-      "open": "780",
-      "jodi": "59",
-      "close": "568",
-      "isHoliday": false
-    },
-    {
-      "date": "20-03-2026",
-      "open": "557",
-      "jodi": "71",
-      "close": "489",
-      "isHoliday": false
-    },
-    {
-      "date": "21-03-2026",
-      "open": "578",
-      "jodi": "04",
-      "close": "266",
-      "isHoliday": false
-    },
-    {
-      "date": "22-03-2026",
-      "open": "145",
-      "jodi": "09",
-      "close": "568",
-      "isHoliday": false
-    },
-    {
-      "date": "23-03-2026",
-      "open": "138",
-      "jodi": "23",
-      "close": "445",
-      "isHoliday": false
-    },
-    {
-      "date": "24-03-2026",
-      "open": "118",
-      "jodi": "03",
-      "close": "689",
-      "isHoliday": false
-    },
-    {
-      "date": "25-03-2026",
-      "open": "778",
-      "jodi": "21",
-      "close": "100",
-      "isHoliday": false
-    },
-    {
-      "date": "26-03-2026",
-      "open": "480",
-      "jodi": "23",
-      "close": "490",
-      "isHoliday": false
-    },
-    {
-      "date": "27-03-2026",
-      "open": "170",
-      "jodi": "87",
-      "close": "368",
-      "isHoliday": false
-    },
-    {
-      "date": "28-03-2026",
-      "open": "800",
-      "jodi": "86",
-      "close": "358",
-      "isHoliday": false
-    },
-    {
-      "date": "29-03-2026",
-      "open": "126",
-      "jodi": "97",
-      "close": "890",
-      "isHoliday": false
-    },
-    {
-      "date": "30-03-2026",
-      "open": "558",
-      "jodi": "86",
-      "close": "600",
-      "isHoliday": false
-    },
-    {
-      "date": "31-03-2026",
-      "open": "147",
-      "jodi": "20",
-      "close": "370",
-      "isHoliday": false
-    },
-    {
-      "date": "01-04-2026",
-      "open": "149",
-      "jodi": "04",
-      "close": "145",
-      "isHoliday": false
-    },
-    {
-      "date": "02-04-2026",
-      "open": "289",
-      "jodi": "93",
-      "close": "247",
-      "isHoliday": false
-    },
-    {
-      "date": "03-04-2026",
-      "open": "348",
-      "jodi": "54",
-      "close": "158",
-      "isHoliday": false
-    },
-    {
-      "date": "04-04-2026",
-      "open": "578",
-      "jodi": "09",
-      "close": "117",
-      "isHoliday": false
-    },
-    {
-      "date": "05-04-2026",
-      "open": "113",
-      "jodi": "57",
-      "close": "179",
-      "isHoliday": false
-    },
-    {
-      "date": "06-04-2026",
-      "open": "299",
-      "jodi": "03",
-      "close": "355",
-      "isHoliday": false
-    },
-    {
-      "date": "07-04-2026",
-      "open": "279",
-      "jodi": "88",
-      "close": "260",
-      "isHoliday": false
-    },
-    {
-      "date": "08-04-2026",
-      "open": "158",
-      "jodi": "47",
-      "close": "223",
-      "isHoliday": false
-    },
-    {
-      "date": "09-04-2026",
-      "open": "900",
-      "jodi": "91",
-      "close": "399",
-      "isHoliday": false
-    },
-    {
-      "date": "10-04-2026",
-      "open": "470",
-      "jodi": "19",
-      "close": "225",
-      "isHoliday": false
-    },
-    {
-      "date": "11-04-2026",
-      "open": "238",
-      "jodi": "32",
-      "close": "679",
-      "isHoliday": false
-    },
-    {
-      "date": "12-04-2026",
-      "open": "358",
-      "jodi": "67",
-      "close": "124",
-      "isHoliday": false
-    },
-    {
-      "date": "13-04-2026",
-      "open": "367",
-      "jodi": "60",
-      "close": "479",
-      "isHoliday": false
-    },
-    {
-      "date": "14-04-2026",
-      "open": "790",
-      "jodi": "66",
-      "close": "169",
-      "isHoliday": false
-    },
-    {
-      "date": "15-04-2026",
-      "open": "140",
-      "jodi": "55",
-      "close": "168",
-      "isHoliday": false
-    },
-    {
-      "date": "16-04-2026",
-      "open": "568",
-      "jodi": "98",
-      "close": "567",
-      "isHoliday": false
-    },
-    {
-      "date": "17-04-2026",
-      "open": "256",
-      "jodi": "33",
-      "close": "346",
-      "isHoliday": false
-    },
-    {
-      "date": "18-04-2026",
-      "open": "567",
-      "jodi": "81",
-      "close": "777",
-      "isHoliday": false
-    },
-    {
-      "date": "19-04-2026",
-      "open": "157",
-      "jodi": "39",
-      "close": "126",
-      "isHoliday": false
-    },
-    {
-      "date": "20-04-2026",
-      "open": "178",
-      "jodi": "66",
-      "close": "259",
-      "isHoliday": false
-    },
-    {
-      "date": "21-04-2026",
-      "open": "138",
-      "jodi": "21",
-      "close": "290",
-      "isHoliday": false
-    },
-    {
-      "date": "22-04-2026",
-      "open": "234",
-      "jodi": "97",
-      "close": "188",
-      "isHoliday": false
-    },
-    {
-      "date": "23-04-2026",
-      "open": "490",
-      "jodi": "39",
-      "close": "270",
-      "isHoliday": false
-    },
-    {
-      "date": "24-04-2026",
-      "open": "455",
-      "jodi": "41",
-      "close": "470",
-      "isHoliday": false
-    },
-    {
-      "date": "25-04-2026",
-      "open": "338",
-      "jodi": "41",
-      "close": "560",
-      "isHoliday": false
-    },
-    {
-      "date": "26-04-2026",
-      "open": "458",
-      "jodi": "75",
-      "close": "690",
-      "isHoliday": false
-    },
-    {
-      "date": "27-04-2026",
-      "open": "157",
-      "jodi": "37",
-      "close": "359",
-      "isHoliday": false
-    },
-    {
-      "date": "28-04-2026",
-      "open": "459",
-      "jodi": "80",
-      "close": "244",
-      "isHoliday": false
-    },
-    {
-      "date": "29-04-2026",
-      "open": "224",
-      "jodi": "81",
-      "close": "669",
-      "isHoliday": false
-    },
-    {
-      "date": "30-04-2026",
-      "open": "466",
-      "jodi": "65",
-      "close": "366",
-      "isHoliday": false
-    },
-    {
-      "date": "01-05-2026",
-      "open": "130",
-      "jodi": "49",
-      "close": "234",
-      "isHoliday": false
-    },
-    {
-      "date": "02-05-2026",
-      "open": "248",
-      "jodi": "47",
-      "close": "278",
-      "isHoliday": false
-    },
-    {
-      "date": "03-05-2026",
-      "open": "670",
-      "jodi": "37",
-      "close": "359",
-      "isHoliday": false
-    },
-    {
-      "date": "04-05-2026",
-      "open": "160",
-      "jodi": "71",
-      "close": "335",
-      "isHoliday": false
-    },
-    {
-      "date": "05-05-2026",
-      "open": "255",
-      "jodi": "29",
-      "close": "577",
-      "isHoliday": false
-    },
-    {
-      "date": "06-05-2026",
-      "open": "469",
-      "jodi": "94",
-      "close": "158",
-      "isHoliday": false
-    },
-    {
-      "date": "07-05-2026",
-      "open": "112",
-      "jodi": "40",
-      "close": "488",
-      "isHoliday": false
-    },
-    {
-      "date": "08-05-2026",
-      "open": "177",
-      "jodi": "51",
-      "close": "146",
-      "isHoliday": false
-    },
-    {
-      "date": "09-05-2026",
-      "open": "228",
-      "jodi": "21",
-      "close": "669",
-      "isHoliday": false
-    },
-    {
-      "date": "10-05-2026",
-      "open": "689",
-      "jodi": "38",
-      "close": "468",
-      "isHoliday": false
-    },
-    {
-      "date": "11-05-2026",
-      "open": "247",
-      "jodi": "31",
-      "close": "579",
-      "isHoliday": false
-    },
-    {
-      "date": "12-05-2026",
-      "open": "490",
-      "jodi": "35",
-      "close": "357",
-      "isHoliday": false
-    },
-    {
-      "date": "13-05-2026",
-      "open": "660",
-      "jodi": "25",
-      "close": "177",
-      "isHoliday": false
-    },
-    {
-      "date": "14-05-2026",
-      "open": "300",
-      "jodi": "39",
-      "close": "117",
-      "isHoliday": false
-    },
-    {
-      "date": "15-05-2026",
-      "open": "179",
-      "jodi": "70",
-      "close": "578",
-      "isHoliday": false
-    },
-    {
-      "date": "16-05-2026",
-      "open": "690",
-      "jodi": "50",
-      "close": "190",
-      "isHoliday": false
-    },
-    {
-      "date": "17-05-2026",
-      "open": "340",
-      "jodi": "73",
-      "close": "779",
-      "isHoliday": false
-    },
-    {
-      "date": "18-05-2026",
-      "open": "338",
-      "jodi": "40",
-      "close": "488",
-      "isHoliday": false
-    },
-    {
-      "date": "19-05-2026",
-      "open": "670",
-      "jodi": "38",
-      "close": "369",
-      "isHoliday": false
-    },
-    {
-      "date": "20-05-2026",
-      "open": "355",
-      "jodi": "38",
-      "close": "189",
-      "isHoliday": false
-    },
-    {
-      "date": "21-05-2026",
-      "open": "799",
-      "jodi": "55",
-      "close": "690",
-      "isHoliday": false
-    },
-    {
-      "date": "22-05-2026",
-      "open": "148",
-      "jodi": "31",
-      "close": "155",
-      "isHoliday": false
-    },
-    {
-      "date": "23-05-2026",
-      "open": "880",
-      "jodi": "64",
-      "close": "239",
-      "isHoliday": false
-    },
-    {
-      "date": "24-05-2026",
-      "open": "890",
-      "jodi": "78",
-      "close": "369",
-      "isHoliday": false
-    },
-    {
-      "date": "25-05-2026",
-      "open": "679",
-      "jodi": "27",
-      "close": "449",
-      "isHoliday": false
-    },
-    {
-      "date": "26-05-2026",
-      "open": "567",
-      "jodi": "87",
-      "close": "458",
-      "isHoliday": false
-    },
-    {
-      "date": "27-05-2026",
-      "open": "899",
-      "jodi": "68",
-      "close": "260",
-      "isHoliday": false
-    },
-    {
-      "date": "28-05-2026",
-      "open": "134",
-      "jodi": "85",
-      "close": "456",
-      "isHoliday": false
-    },
-    {
-      "date": "29-05-2026",
-      "open": "367",
-      "jodi": "64",
-      "close": "239",
-      "isHoliday": false
-    },
-    {
-      "date": "30-05-2026",
-      "open": "357",
-      "jodi": "56",
-      "close": "178",
-      "isHoliday": false
-    },
-    {
-      "date": "31-05-2026",
-      "open": "240",
-      "jodi": "60",
-      "close": "280",
-      "isHoliday": false
-    },
-    {
-      "date": "01-06-2026",
-      "open": "124",
-      "jodi": "78",
-      "close": "288",
-      "isHoliday": false
-    },
-    {
-      "date": "02-06-2026",
-      "open": "179",
-      "jodi": "70",
-      "close": "136",
-      "isHoliday": false
-    },
-    {
-      "date": "03-06-2026",
-      "open": "369",
-      "jodi": "82",
-      "close": "660",
-      "isHoliday": false
-    },
-    {
-      "date": "04-06-2026",
-      "open": "244",
-      "jodi": "09",
-      "close": "135",
-      "isHoliday": false
-    },
-    {
-      "date": "05-06-2026",
-      "open": "788",
-      "jodi": "32",
-      "close": "660",
-      "isHoliday": false
-    },
-    {
-      "date": "06-06-2026",
-      "open": "667",
-      "jodi": "98",
-      "close": "558",
-      "isHoliday": false
-    },
-    {
-      "date": "07-06-2026",
-      "open": "236",
-      "jodi": "19",
-      "close": "450",
-      "isHoliday": false
-    },
-    {
-      "date": "08-06-2026",
-      "open": "499",
-      "jodi": "25",
-      "close": "230",
-      "isHoliday": false
-    },
-    {
-      "date": "09-06-2026",
-      "open": "266",
-      "jodi": "40",
-      "close": "569",
-      "isHoliday": false
-    },
-    {
-      "date": "10-06-2026",
-      "open": "688",
-      "jodi": "29",
-      "close": "117",
-      "isHoliday": false
-    },
-    {
-      "date": "11-06-2026",
-      "open": "260",
-      "jodi": "81",
-      "close": "236",
-      "isHoliday": false
-    },
-    {
-      "date": "12-06-2026",
-      "open": "158",
-      "jodi": "45",
-      "close": "159",
-      "isHoliday": false
-    },
-    {
-      "date": "13-06-2026",
-      "open": "249",
-      "jodi": "54",
-      "close": "167",
-      "isHoliday": false
-    },
-    {
-      "date": "14-06-2026",
-      "open": "239",
-      "jodi": "42",
-      "close": "679",
-      "isHoliday": false
-    },
-    {
-      "date": "15-06-2026",
-      "open": "237",
-      "jodi": "23",
-      "close": "689",
-      "isHoliday": false
-    },
-    {
-      "date": "16-06-2026",
-      "open": "479",
-      "jodi": "01",
-      "close": "344",
-      "isHoliday": false
-    },
-    {
-      "date": "17-06-2026",
-      "open": "370",
-      "jodi": "02",
-      "close": "778",
-      "isHoliday": false
-    },
-    {
-      "date": "18-06-2026",
-      "open": "259",
-      "jodi": "68",
-      "close": "990",
-      "isHoliday": false
-    },
-    {
-      "date": "19-06-2026",
-      "open": "114",
-      "jodi": "62",
-      "close": "390",
-      "isHoliday": false
-    },
-    {
-      "date": "20-06-2026",
-      "open": "389",
-      "jodi": "07",
-      "close": "467",
-      "isHoliday": false
-    },
-    {
-      "date": "21-06-2026",
-      "open": "360",
-      "jodi": "94",
-      "close": "590",
-      "isHoliday": false
-    },
-    {
-      "date": "22-06-2026",
-      "open": "168",
-      "jodi": "56",
-      "close": "880",
-      "isHoliday": false
-    },
-    {
-      "date": "23-06-2026",
-      "open": "900",
-      "jodi": "94",
-      "close": "257",
-      "isHoliday": false
-    },
-    {
-      "date": "24-06-2026",
-      "open": "677",
-      "jodi": "01",
-      "close": "399",
-      "isHoliday": false
-    },
-    {
-      "date": "25-06-2026",
-      "open": "348",
-      "jodi": "56",
-      "close": "277",
-      "isHoliday": false
-    },
-    {
-      "date": "26-06-2026",
-      "open": "479",
-      "jodi": "02",
-      "close": "570",
-      "isHoliday": false
-    },
-    {
-      "date": "27-06-2026",
-      "open": "470",
-      "jodi": "15",
-      "close": "348",
-      "isHoliday": false
-    },
-    {
-      "date": "28-06-2026",
-      "open": "245",
-      "jodi": "14",
-      "close": "167",
-      "isHoliday": false
-    },
-    {
-      "date": "29-06-2026",
-      "open": "470",
-      "jodi": "18",
-      "close": "369",
-      "isHoliday": false
-    },
-    {
-      "date": "30-06-2026",
-      "open": "340",
-      "jodi": "77",
-      "close": "250",
-      "isHoliday": false
-    },
-    {
-      "date": "01-07-2026",
-      "open": "368",
-      "jodi": "79",
-      "close": "360",
-      "isHoliday": false
-    },
-    {
-      "date": "02-07-2026",
-      "open": "358",
-      "jodi": "66",
-      "close": "150",
-      "isHoliday": false
-    },
-    {
-      "date": "03-07-2026",
-      "open": "239",
-      "jodi": "47",
-      "close": "458",
-      "isHoliday": false
-    },
-    {
-      "date": "04-07-2026",
-      "open": "690",
-      "jodi": "57",
-      "close": "566",
-      "isHoliday": false
-    },
-    {
-      "date": "05-07-2026",
-      "open": "135",
-      "jodi": "90",
-      "close": "569",
-      "isHoliday": false
-    },
-    {
-      "date": "06-07-2026",
-      "open": "378",
-      "jodi": "83",
-      "close": "157",
-      "isHoliday": false
-    },
-    {
-      "date": "07-07-2026",
-      "open": "179",
-      "jodi": "14",
-      "close": "149",
-      "isHoliday": false
-    },
-    {
-      "date": "08-07-2026",
-      "open": "180",
-      "jodi": "99",
-      "close": "568",
-      "isHoliday": false
-    },
-    {
-      "date": "09-07-2026",
-      "open": "469",
-      "jodi": "94",
-      "close": "356",
-      "isHoliday": false
-    },
-    {
-      "date": "10-07-2026",
-      "open": "117",
-      "jodi": "91",
-      "close": "137",
-      "isHoliday": false
-    },
-    {
-      "date": "11-07-2026",
-      "open": "578",
-      "jodi": "05",
-      "close": "140",
-      "isHoliday": false
-    },
-    {
-      "date": "12-07-2026",
-      "open": "580",
-      "jodi": "30",
-      "close": "127",
-      "isHoliday": false
-    },
-    {
-      "date": "13-07-2026",
-      "open": "700",
-      "jodi": "71",
-      "close": "100",
-      "isHoliday": false
-    },
-    {
-      "date": "14-07-2026",
-      "open": "348",
-      "jodi": "56",
-      "close": "123",
-      "isHoliday": false
-    },
-    {
-      "date": "15-07-2026",
-      "open": "289",
-      "jodi": "93",
-      "close": "689",
-      "isHoliday": false
-    },
-    {
-      "date": "16-07-2026",
-      "open": "235",
-      "jodi": "07",
-      "close": "340",
-      "isHoliday": false
-    },
-    {
-      "date": "17-07-2026",
-      "open": "359",
-      "jodi": "74",
-      "close": "257",
-      "isHoliday": false
-    },
-    {
-      "date": "18-07-2026",
-      "open": "347",
-      "jodi": "48",
-      "close": "260",
-      "isHoliday": false
-    },
-    {
-      "date": "19-07-2026",
-      "open": "268",
-      "jodi": "67",
-      "close": "160",
-      "isHoliday": false
-    },
-    {
-      "date": "20-07-2026",
-      "open": "269",
-      "jodi": "76",
-      "close": "790",
-      "isHoliday": false
-    },
-    {
-      "date": "21-07-2026",
-      "open": "268",
-      "jodi": "67",
-      "close": "223",
-      "isHoliday": false
-    },
-    {
-      "date": "22-07-2026",
-      "open": "668",
-      "jodi": "03",
-      "close": "247",
-      "isHoliday": false
-    },
-    {
-      "date": "23-07-2026",
-      "open": "246",
-      "jodi": "22",
-      "close": "679",
-      "isHoliday": false
-    },
-    {
-      "date": "24-07-2026",
-      "open": "256",
-      "jodi": "38",
-      "close": "558",
-      "isHoliday": false
-    },
-    {
-      "date": "25-07-2026",
-      "open": "135",
-      "jodi": "90",
-      "close": "370",
-      "isHoliday": false
-    },
-    {
-      "date": "26-07-2026",
-      "open": "689",
-      "jodi": "33",
-      "close": "157",
-      "isHoliday": false
-    },
-    {
-      "date": "27-07-2026",
-      "open": "469",
-      "jodi": "99",
-      "close": "667",
-      "isHoliday": false
-    },
-    {
-      "date": "28-07-2026",
-      "open": "140",
-      "jodi": "51",
-      "close": "489",
-      "isHoliday": false
-    },
-    {
-      "date": "29-07-2026",
-      "open": "345",
-      "jodi": "27",
-      "close": "359",
-      "isHoliday": false
-    },
-    {
-      "date": "30-07-2026",
-      "open": "126",
-      "jodi": "90",
-      "close": "488",
-      "isHoliday": false
-    },
-    {
-      "date": "31-07-2026",
-      "open": "157",
-      "jodi": "39",
-      "close": "234",
-      "isHoliday": false
-    },
-    {
-      "date": "01-08-2026",
-      "open": "245",
-      "jodi": "16",
-      "close": "367",
-      "isHoliday": false
-    },
-    {
-      "date": "02-08-2026",
-      "open": "389",
-      "jodi": "04",
-      "close": "130",
-      "isHoliday": false
-    },
-    {
-      "date": "03-08-2026",
-      "open": "557",
-      "jodi": "76",
-      "close": "349",
-      "isHoliday": false
-    },
-    {
-      "date": "04-08-2026",
-      "open": "138",
-      "jodi": "29",
-      "close": "667",
-      "isHoliday": false
-    },
-    {
-      "date": "05-08-2026",
-      "open": "278",
-      "jodi": "79",
-      "close": "478",
-      "isHoliday": false
-    },
-    {
-      "date": "06-08-2026",
-      "open": "157",
-      "jodi": "30",
-      "close": "118",
-      "isHoliday": false
-    },
-    {
-      "date": "07-08-2026",
-      "open": "457",
-      "jodi": "66",
-      "close": "178",
-      "isHoliday": false
-    },
-    {
-      "date": "08-08-2026",
-      "open": "137",
-      "jodi": "18",
-      "close": "477",
-      "isHoliday": false
-    },
-    {
-      "date": "09-08-2026",
-      "open": "249",
-      "jodi": "52",
-      "close": "156",
-      "isHoliday": false
-    },
-    {
-      "date": "10-08-2026",
-      "open": "178",
-      "jodi": "61",
-      "close": "399",
-      "isHoliday": false
-    },
-    {
-      "date": "11-08-2026",
-      "open": "459",
-      "jodi": "83",
-      "close": "166",
-      "isHoliday": false
-    },
-    {
-      "date": "12-08-2026",
-      "open": "589",
-      "jodi": "27",
-      "close": "449",
-      "isHoliday": false
-    },
-    {
-      "date": "13-08-2026",
-      "open": "355",
-      "jodi": "32",
-      "close": "228",
-      "isHoliday": false
-    },
-    {
-      "date": "14-08-2026",
-      "open": "780",
-      "jodi": "53",
-      "close": "238",
-      "isHoliday": false
-    },
-    {
-      "date": "15-08-2026",
-      "open": "***",
-      "jodi": "**",
-      "close": "***",
-      "isHoliday": true
-    },
-    {
-      "date": "16-08-2026",
-      "open": "567",
-      "jodi": "84",
-      "close": "590",
-      "isHoliday": false
-    },
-    {
-      "date": "17-08-2026",
-      "open": "466",
-      "jodi": "65",
-      "close": "249",
-      "isHoliday": false
-    },
-    {
-      "date": "18-08-2026",
-      "open": "233",
-      "jodi": "87",
-      "close": "700",
-      "isHoliday": false
-    },
-    {
-      "date": "19-08-2026",
-      "open": "400",
-      "jodi": "49",
-      "close": "360",
-      "isHoliday": false
-    },
-    {
-      "date": "20-08-2026",
-      "open": "380",
-      "jodi": "15",
-      "close": "267",
-      "isHoliday": false
-    },
-    {
-      "date": "21-08-2026",
-      "open": "799",
-      "jodi": "50",
-      "close": "190",
-      "isHoliday": false
-    },
-    {
-      "date": "22-08-2026",
-      "open": "340",
-      "jodi": "70",
-      "close": "127",
-      "isHoliday": false
-    },
-    {
-      "date": "23-08-2026",
-      "open": "458",
-      "jodi": "76",
-      "close": "169",
-      "isHoliday": false
-    },
-    {
-      "date": "24-08-2026",
-      "open": "124",
-      "jodi": "73",
-      "close": "788",
-      "isHoliday": false
-    },
-    {
-      "date": "25-08-2026",
-      "open": "289",
-      "jodi": "90",
-      "close": "569",
-      "isHoliday": false
-    },
-    {
-      "date": "26-08-2026",
-      "open": "448",
-      "jodi": "64",
-      "close": "400",
-      "isHoliday": false
-    },
-    {
-      "date": "27-08-2026",
-      "open": "446",
-      "jodi": "46",
-      "close": "169",
-      "isHoliday": false
-    },
-    {
-      "date": "28-08-2026",
-      "open": "489",
-      "jodi": "19",
-      "close": "225",
-      "isHoliday": false
-    },
-    {
-      "date": "29-08-2026",
-      "open": "577",
-      "jodi": "99",
-      "close": "180",
-      "isHoliday": false
-    },
-    {
-      "date": "30-08-2026",
-      "open": "337",
-      "jodi": "37",
-      "close": "278",
-      "isHoliday": false
-    },
-    {
-      "date": "31-08-2026",
-      "open": "678",
-      "jodi": "11",
-      "close": "137",
-      "isHoliday": false
-    },
-    {
-      "date": "01-09-2026",
-      "open": "570",
-      "jodi": "26",
-      "close": "466",
-      "isHoliday": false
-    },
-    {
-      "date": "02-09-2026",
-      "open": "220",
-      "jodi": "44",
-      "close": "347",
-      "isHoliday": false
-    },
-    {
-      "date": "03-09-2026",
-      "open": "140",
-      "jodi": "52",
-      "close": "499",
-      "isHoliday": false
-    },
-    {
-      "date": "04-09-2026",
-      "open": "169",
-      "jodi": "61",
-      "close": "137",
-      "isHoliday": false
-    },
-    {
-      "date": "05-09-2026",
-      "open": "556",
-      "jodi": "64",
-      "close": "239",
-      "isHoliday": false
-    },
-    {
-      "date": "06-09-2026",
-      "open": "199",
-      "jodi": "92",
-      "close": "390",
-      "isHoliday": false
-    },
-    {
-      "date": "07-09-2026",
-      "open": "269",
-      "jodi": "70",
-      "close": "235",
-      "isHoliday": false
-    },
-    {
-      "date": "08-09-2026",
-      "open": "167",
-      "jodi": "41",
-      "close": "137",
-      "isHoliday": false
-    },
-    {
-      "date": "09-09-2026",
-      "open": "480",
-      "jodi": "22",
-      "close": "246",
-      "isHoliday": false
-    },
-    {
-      "date": "10-09-2026",
-      "open": "589",
-      "jodi": "23",
-      "close": "148",
-      "isHoliday": false
-    },
-    {
-      "date": "11-09-2026",
-      "open": "568",
-      "jodi": "98",
-      "close": "134",
-      "isHoliday": false
-    },
-    {
-      "date": "12-09-2026",
-      "open": "234",
-      "jodi": "94",
-      "close": "257",
-      "isHoliday": false
-    },
-    {
-      "date": "13-09-2026",
-      "open": "225",
-      "jodi": "98",
-      "close": "170",
-      "isHoliday": false
-    },
-    {
-      "date": "14-09-2026",
-      "open": "235",
-      "jodi": "08",
-      "close": "279",
-      "isHoliday": false
-    },
-    {
-      "date": "15-09-2026",
-      "open": "679",
-      "jodi": "28",
-      "close": "125",
-      "isHoliday": false
-    },
-    {
-      "date": "16-09-2026",
-      "open": "556",
-      "jodi": "62",
-      "close": "480",
-      "isHoliday": false
-    },
-    {
-      "date": "17-09-2026",
-      "open": "160",
-      "jodi": "76",
-      "close": "259",
-      "isHoliday": false
-    },
-    {
-      "date": "18-09-2026",
-      "open": "466",
-      "jodi": "63",
-      "close": "157",
-      "isHoliday": false
-    },
-    {
-      "date": "19-09-2026",
-      "open": "560",
-      "jodi": "15",
-      "close": "799",
-      "isHoliday": false
-    },
-    {
-      "date": "20-09-2026",
-      "open": "340",
-      "jodi": "79",
-      "close": "667",
-      "isHoliday": false
-    },
-    {
-      "date": "21-09-2026",
-      "open": "469",
-      "jodi": "96",
-      "close": "123",
-      "isHoliday": false
-    },
-    {
-      "date": "22-09-2026",
-      "open": "490",
-      "jodi": "32",
-      "close": "237",
-      "isHoliday": false
-    },
-    {
-      "date": "23-09-2026",
-      "open": "146",
-      "jodi": "19",
-      "close": "388",
-      "isHoliday": false
-    },
-    {
-      "date": "24-09-2026",
-      "open": "168",
-      "jodi": "58",
-      "close": "260",
-      "isHoliday": false
-    },
-    {
-      "date": "25-09-2026",
-      "open": "458",
-      "jodi": "71",
-      "close": "489",
-      "isHoliday": false
-    },
-    {
-      "date": "26-09-2026",
-      "open": "359",
-      "jodi": "70",
-      "close": "479",
-      "isHoliday": false
-    },
-    {
-      "date": "27-09-2026",
-      "open": "569",
-      "jodi": "06",
-      "close": "178",
-      "isHoliday": false
-    },
-    {
-      "date": "28-09-2026",
-      "open": "370",
-      "jodi": "08",
-      "close": "468",
-      "isHoliday": false
-    },
-    {
-      "date": "29-09-2026",
-      "open": "889",
-      "jodi": "59",
-      "close": "577",
-      "isHoliday": false
-    },
-    {
-      "date": "30-09-2026",
-      "open": "690",
-      "jodi": "57",
-      "close": "467",
-      "isHoliday": false
-    },
-    {
-      "date": "01-10-2026",
-      "open": "390",
-      "jodi": "29",
-      "close": "289",
-      "isHoliday": false
-    },
-    {
-      "date": "02-10-2026",
-      "open": "135",
-      "jodi": "97",
-      "close": "269",
-      "isHoliday": false
-    },
-    {
-      "date": "03-10-2026",
-      "open": "579",
-      "jodi": "15",
-      "close": "366",
-      "isHoliday": false
-    },
-    {
-      "date": "04-10-2026",
-      "open": "239",
-      "jodi": "45",
-      "close": "168",
-      "isHoliday": false
-    },
-    {
-      "date": "05-10-2026",
-      "open": "790",
-      "jodi": "61",
-      "close": "560",
-      "isHoliday": false
-    },
-    {
-      "date": "06-10-2026",
-      "open": "580",
-      "jodi": "39",
-      "close": "135",
-      "isHoliday": false
-    },
-    {
-      "date": "07-10-2026",
-      "open": "134",
-      "jodi": "82",
-      "close": "156",
-      "isHoliday": false
-    },
-    {
-      "date": "08-10-2026",
-      "open": "147",
-      "jodi": "22",
-      "close": "589",
-      "isHoliday": false
-    },
-    {
-      "date": "09-10-2026",
-      "open": "114",
-      "jodi": "63",
-      "close": "355",
-      "isHoliday": false
-    },
-    {
-      "date": "10-10-2026",
-      "open": "778",
-      "jodi": "25",
-      "close": "889",
-      "isHoliday": false
-    },
-    {
-      "date": "11-10-2026",
-      "open": "290",
-      "jodi": "12",
-      "close": "246",
-      "isHoliday": false
-    },
-    {
-      "date": "12-10-2026",
-      "open": "145",
-      "jodi": "04",
-      "close": "356",
-      "isHoliday": false
-    },
-    {
-      "date": "13-10-2026",
-      "open": "240",
-      "jodi": "61",
-      "close": "128",
-      "isHoliday": false
-    },
-    {
-      "date": "14-10-2026",
-      "open": "169",
-      "jodi": "65",
-      "close": "456",
-      "isHoliday": false
-    },
-    {
-      "date": "15-10-2026",
-      "open": "470",
-      "jodi": "16",
-      "close": "268",
-      "isHoliday": false
-    },
-    {
-      "date": "16-10-2026",
-      "open": "360",
-      "jodi": "95",
-      "close": "267",
-      "isHoliday": false
-    },
-    {
-      "date": "17-10-2026",
-      "open": "900",
-      "jodi": "97",
-      "close": "458",
-      "isHoliday": false
-    },
-    {
-      "date": "18-10-2026",
-      "open": "357",
-      "jodi": "54",
-      "close": "167",
-      "isHoliday": false
-    },
-    {
-      "date": "19-10-2026",
-      "open": "378",
-      "jodi": "85",
-      "close": "267",
-      "isHoliday": false
-    },
-    {
-      "date": "20-10-2026",
-      "open": "238",
-      "jodi": "39",
-      "close": "333",
-      "isHoliday": false
-    },
-    {
-      "date": "21-10-2026",
-      "open": "125",
-      "jodi": "89",
-      "close": "478",
       "isHoliday": false
     }
   ]
